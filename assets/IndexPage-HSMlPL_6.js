@@ -1,0 +1,1 @@
+import{Q as t}from"./QPage-CGegGCNE.js";import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{P as o,J as s,L as a,O as n}from"./index-DkvR_QS0.js";import"./render-iCKS32mu.js";const c={};function f(m,e){return a(),o(t,{class:"row items-center justify-evenly"},{default:s(()=>e[0]||(e[0]=[n(" Home Page ")])),_:1})}const l=r(c,[["render",f]]);export{l as default};
