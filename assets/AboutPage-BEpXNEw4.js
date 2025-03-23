@@ -1,1 +1,0 @@
-import{Q as t}from"./QPage-DLFDdik0.js";import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{P as r,J as s,L as a,O as c}from"./index-DqU4_aVN.js";import"./render-cjUkIlep.js";const n={};function f(i,e){return a(),r(t,{class:"row items-center justify-evenly"},{default:s(()=>e[0]||(e[0]=[c(" About Page ")])),_:1})}const l=o(n,[["render",f]]);export{l as default};
