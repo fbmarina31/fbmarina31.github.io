@@ -1,1 +1,0 @@
-import{Q as e}from"./QPage-BZtJXVF3.js";import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{a0 as r,J as a,O as s,N as c}from"./index-CH7bclnR.js";import"./render-B21IuztS.js";const n={};function f(i,t){return s(),r(e,{class:"row items-center justify-evenly"},{default:a(()=>t[0]||(t[0]=[c(" Contact Page ")])),_:1})}const d=o(n,[["render",f]]);export{d as default};
