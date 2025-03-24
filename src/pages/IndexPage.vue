@@ -5,23 +5,19 @@
     <div class="text-h2 q-pa-xs text-grey-9 text-center	">Herzlich<br>Willkommen<br> bei LuMia kreativ  </div>
     <div class="text-subtitle1 q-pa-xs text-grey-9 text-center	">Wir erstellen mit 🤍 handgemachtes<br> für dein Zuhause, dein Event oder deine Liebsten.</div>
   </div>
-  <div><img src=/logo/logo_mit_Beschreibung.png
-              class="q-mt-md q-pb-none"
-              style="height: 250px"
-            /></div>
-</div>
-<div class="row  justify-center q-pb-lg">
   <div>
-    <div class="q-pa-md q-ma-sm" style="height: 700px; width: 700px;">
+    <div class="q-pa-md q-ma-sm">
     <q-carousel
       animated
+      swipeable
       v-model="slide"
       arrows
       navigation
+      control-color="grey-9"
       infinite
-      style="height: 700px; width: 700px;"
+      style="height: 340px; width: 340px;"
     >
-      <q-carousel-slide :name="1" img-src="/images_carousel-slide/20250219_200855332_iOS.jpg" fit="cover" />
+      <q-carousel-slide :name="1" img-src="/images_carousel-slide/20250219_200855332_iOS.jpg" fit="cover"/>
       <q-carousel-slide :name="2" img-src="/images_carousel-slide/20250219_201012875_iOS.jpg" fit="cover"/>
       <q-carousel-slide :name="3" img-src="/images_carousel-slide/20250219_201151406_iOS.jpg" fit="cover"/>
       <q-carousel-slide :name="4" img-src="/images_carousel-slide/20250309_112236759_iOS.jpg" fit="cover"/>
@@ -29,8 +25,7 @@
     </q-carousel>
   </div>
   </div>
-</div>
-
+  </div>
   </q-page>
 </template>
 
