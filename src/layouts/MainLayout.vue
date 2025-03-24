@@ -4,7 +4,7 @@
       <q-header :class="$q.dark.isActive ? 'bg-secondary' : 'bg-white'">
         <q-toolbar class="q-pl-lg q-pb-sm">
           <a href="/">
-            <img src=public\icons\favicon-128x128.png
+            <img src=\icons\favicon-128x128.png
               class="q-mt-md q-pb-none"
               style="width: 70px"
             />
