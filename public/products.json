@@ -1,24 +1,69 @@
 {
-  "categories": ["microsoft", "smartphone", "wohnwagen", "wohnmobil", "Weihnachten"],
-  "defaultCategory": "microsoft",
+  "categories": ["Neuheiten", "Türkränze", "Geburt & Kinder", "Geburtstag", "Hochzeit", "Trauer", "Allgemeine Sets", "Frühjahr und Ostern", "Herbst", "Weihnachten", "Kerzenhalter", "Vasen", "Teller, Schalen und Töpfe", "Häuser", "Herzen", "Tiere", "Engel", "Halterungen und Einschieber", "Sonstige Formen"],
+  "defaultCategory": "Neuheiten",
   "products": [
     {
       "id": 1,
-      "title": "Lumia 950",
-      "price": 100.0,
-      "description": "The Lumia 950 is a Windows 10 Mobile-based smartphone developed by Microsoft Mobile.",
-      "image": "./images/schmetterling.jpg",
-      "size": "145 x 73.2 x 8.2 mm",
-      "categories": ["smartphone", "microsoft"]
-    },
-    {
+      "title": "Türkranz",
+      "price": 20,
+      "description": "25cm oder 30cm Durchmesser. Band personalisierbar",
+      "image": "./images/Türkranz/20220904_125315858_iOS.jpg",
+      "size": 30,
+      "categories": "Neuheiten, Türkränze"
+     },
+     {
       "id": 2,
-      "title": "Wohnwagen",
-      "price": 100.0,
-      "description": "Der Wohnwagen ist ein Anhänger, der als Wohnraum genutzt wird.",
-      "image": "./images/wohnwagen.jpg",
-      "size": "5m x 2m",
-      "categories": ["wohnwagen", "wohnmobil"]
-    }
+      "title": "Türkranz",
+      "price": 20,
+      "description": "25cm oder 30cm Durchmesser. Band personalisierbar",
+      "image": "./images/Türkranz/20230911_115711091_iOS.jpg",
+      "size": 30,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 3,
+      "title": "Türkranz",
+      "price": 20,
+      "description": "25cm oder 30cm Durchmesser. Band personalisierbar",
+      "image": "./images/Türkranz/20220924_161519497_iOS.jpg",
+      "size": 30,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 4,
+      "title": "Türkranz",
+      "price": 20,
+      "description": "25cm oder 30cm Durchmesser. Band personalisierbar",
+      "image": "./images/Türkranz/20220826_112755850_iOS.jpg",
+      "size": 30,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 5,
+      "title": "Türkranz",
+      "price": 23,
+      "description": "25cm oder 30cm Durchmesser. Band personalisierbar",
+      "image": "./images/Türkranz/20230911_115737443_iOS.jpg",
+      "size": 30,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 6,
+      "title": "Türkranz",
+      "price": 23,
+      "description": "25cm oder 30cm Durchmesser. Band personalisierbar",
+      "image": "./images/Türkranz/20230419_111213254_iOS.jpg",
+      "size": 30,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 7,
+      "title": "Türkranz",
+      "price": 15,
+      "description": "25cm oder 30cm Durchmesser. Band personalisierbar",
+      "image": "./images/Türkranz/20220805_132024908_iOS.jpg",
+      "size": 30,
+      "categories": "Türkränze"
+     }
   ]
 }
