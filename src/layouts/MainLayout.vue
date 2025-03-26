@@ -10,8 +10,8 @@
             />
           </a>
           <q-space ></q-space>
-          <q-btn flat dense icon="mail" color="grey-8" class="q-mt-xl q-pl-md"  clickable type="a" href="mailto:lumiakreativ@gmail.com"> <q-tooltip>lumiakreativ@gmail.com</q-tooltip></q-btn>
-          <q-btn flat dense  icon="language" color="grey-8" class="q-mt-xl q-pl-md" clickable type="a" href="https://www.instagram.com/lumia_kreativ/?igshid=YmMyMTA2M2Y%3D" target="blank"><q-tooltip>Instagram</q-tooltip></q-btn>
+          <q-btn flat dense  icon="mail" color="grey-8" class="q-mt-xl q-pl-md"  clickable type="a" href="mailto:lumiakreativ@gmail.com"> <q-tooltip>lumiakreativ@gmail.com</q-tooltip></q-btn>
+          <q-btn flat dense  icon="share" color="grey-8" class="q-mt-xl q-pl-md" clickable type="a" href="https://www.instagram.com/lumia_kreativ/?igshid=YmMyMTA2M2Y%3D" target="blank"><q-tooltip>Instagram</q-tooltip></q-btn>
         </q-toolbar>
         <q-tabs align="left" class="text-grey-9 bg-grey-3">
           <q-route-tab to="/home" label="Home" />
