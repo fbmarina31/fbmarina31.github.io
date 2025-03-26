@@ -1,17 +1,11 @@
 <template>
   <q-page padding>
-    <q-banner class="text-grey-9 bg-white text-center">
-      Du bist auf der Suche nach einer Kleinigkeit für dich oder zum verschenken? Dann wirst du
-      hoffentlich bei uns fündig.<br />
-      Gerne erstellen und personalisieren wir auch etwas nach deinen Wünschen. <br />Melde Dich
-      gerne bei uns über die oben rechts aufgezeigten Kontaktmöglichkeiten.
-    </q-banner>
-    <q-select v-model="selectedCategory" :options="categories" label="Kategorie" />
+    <q-select class="q-pl-md q-pt-sm" borderless v-model="selectedCategory" :options="categories" label="Kategorie" style="width: 340px;" />
     <div class="q-pa-md row items-start q-gutter-md">
       <q-card
         flat
         bordered
-        style="width: 300px; height: 550px"
+        style="width: 320px; height: 550px"
         v-for="product in filteredProducts"
         :key="product.id"
       >
@@ -22,21 +16,21 @@
             <q-item-label class="text-h5 bg-grey-3 q-pa-xs text-center">{{
               product.title
             }}</q-item-label>
-            <div class="row q-pa-xs q-mt-sm">
-              <div class="q-px-xs">Nr.</div>
-              <div class="q-px-xs text-weight-bold">{{ product.id }}</div>
+            <div class="row q-pa-xs q-mt-sm text-grey-9">
+              <div class="q-px-xs text-grey-9">Nr.</div>
+              <div class="q-px-xs text-weight-bold text-grey-9">{{ product.id }}</div>
             </div>
-            <div class="row q-pa-xs">
-              <div class="q-px-xs">Preis</div>
-              <div class="q-px-xs text-weight-bold">{{ product.price }} €</div>
+            <div class="row q-pa-xs text-grey-9">
+              <div class="q-px-xs text-grey-9">Preis</div>
+              <div class="q-px-xs text-weight-bold text-grey-9">{{ product.price }} €</div>
             </div>
-            <div class="row q-pa-xs">
-              <div class="q-px-xs">Maße</div>
-              <div class="q-px-xs text-weight-bold">{{ product.size }}</div>
+            <div class="row q-pa-xs text-grey-9">
+              <div class="q-px-xs text-grey-9">Maße</div>
+              <div class="q-px-xs text-weight-bold text-grey-9">{{ product.size }}</div>
             </div>
-            <div class="row q-pa-xs">
-              <div class="q-px-xs">Beschreibung</div>
-              <div class="q-px-xs text-weight-bold">
+            <div class="row q-pa-xs text-grey-9">
+              <div class="q-px-xs text-grey-9">Beschreibung</div>
+              <div class="q-px-xs text-weight-bold text-grey-9">
                 {{ product.description }}
               </div>
             </div>
