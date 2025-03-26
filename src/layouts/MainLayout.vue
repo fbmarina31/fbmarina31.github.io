@@ -2,16 +2,20 @@
   <div>
     <q-layout view="hHh Lpr lff">
       <q-header :class="$q.dark.isActive ? 'bg-secondary' : 'bg-white'">
-        <q-toolbar class="q-pl-lg q-pb-sm">
+        <q-toolbar class="q-pl-lg  q-pb-sm">
           <a href="/">
             <img src=\logo\logo_mit_Beschreibung.png
               class="q-mt-md q-pb-none"
-              style="width: 190px"
+              style="width: 180px"
             />
           </a>
           <q-space ></q-space>
-          <q-btn flat dense  icon="mail" color="grey-8" class="q-mt-xl q-pl-md"  clickable type="a" href="mailto:lumiakreativ@gmail.com"> <q-tooltip>lumiakreativ@gmail.com</q-tooltip></q-btn>
-          <q-btn flat dense  icon="share" color="grey-8" class="q-mt-xl q-pl-md" clickable type="a" href="https://www.instagram.com/lumia_kreativ/?igshid=YmMyMTA2M2Y%3D" target="blank"><q-tooltip>Instagram</q-tooltip></q-btn>
+          <q-btn flat dense class="q-mt-xl q-pl-md"  clickable type="a" href="mailto:lumiakreativ@gmail.com">
+            <img src=\logo\Mail.png style="width: 35px"/>
+            <q-tooltip>lumiakreativ@gmail.com</q-tooltip></q-btn>
+            <q-btn flat dense class="q-mt-xl q-pl-md" clickable type="a" href="https://www.instagram.com/lumia_kreativ/?igshid=YmMyMTA2M2Y%3D" target="blank">
+              <img src=\logo\Instagram.png  style="width: 28px"/>
+              <q-tooltip>Instagram</q-tooltip></q-btn>
         </q-toolbar>
         <q-tabs align="left" class="text-grey-9 bg-grey-3">
           <q-route-tab to="/home" label="Home" />

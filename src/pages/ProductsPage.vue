@@ -5,7 +5,7 @@
       <q-card
         flat
         bordered
-        style="width: 320px; height: 550px"
+        style="width: 300px; height: 550px"
         v-for="product in filteredProducts"
         :key="product.id"
       >
@@ -26,7 +26,7 @@
             </div>
             <div class="row q-pa-xs text-grey-9">
               <div class="q-px-xs text-grey-9">Maße</div>
-              <div class="q-px-xs text-weight-bold text-grey-9">{{ product.size }}</div>
+              <div class="q-px-xs text-weight-bold text-grey-9">{{ product.size }} cm</div>
             </div>
             <div class="row q-pa-xs text-grey-9">
               <div class="q-px-xs text-grey-9">Beschreibung</div>
