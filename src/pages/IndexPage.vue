@@ -2,11 +2,9 @@
   <q-page>
     <div class="row justify-center">
   <div class="q-pa-md">
-    <div class="text-h2 q-pa-xs text-grey-9 text-center	">Herzlich<br>Willkommen<br> bei LuMia kreativ  </div>
-    <div class="text-subtitle1 q-pa-xs text-grey-9 text-center	">Wir erstellen mit 🤍 handgemachtes<br> für dein Zuhause, dein Event oder deine Liebsten.</div>
-  </div>
+    <div class="text-h2 q-pa-xs text-grey-9 text-center	">Herzlich Willkommen<br> bei LuMia kreativ  </div>
   <div>
-    <div class="q-pa-md q-ma-sm">
+    <div class="q-pa-md q-ma-sm row justify-center">
     <q-carousel
       animated
       swipeable
@@ -24,6 +22,10 @@
       <q-carousel-slide :name="5" img-src="/images_carousel-slide/20250309_112304614_iOS.jpg" fit="cover"/>
     </q-carousel>
   </div>
+  </div>
+  <div class="text-subtitle1 q-pa-xs text-grey-9 text-center	">   Du bist auf der Suche nach einer Kleinigkeit für dich oder zum verschenken? Dann wirst du
+      hoffentlich bei uns fündig.<br> Gerne erstellen und personalisieren wir auch etwas nach deinen Wünschen. <br><br>
+      Melde Dich gerne bei uns über die oben rechts aufgeführten Kontaktmöglichkeiten.</div>
   </div>
   </div>
   </q-page>
