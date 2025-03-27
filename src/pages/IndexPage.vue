@@ -23,7 +23,7 @@
     </q-carousel>
   </div>
   </div>
-  <div class="text-subtitle1 q-pa-xs text-grey-9 text-center	">   Du bist auf der Suche nach einer Kleinigkeit für dich oder zum verschenken? Dann wirst du
+  <div class="text-subtitle1 q-pa-xs text-grey-9 text-center q-px-md">   Du bist auf der Suche nach einer Kleinigkeit für dich oder zum verschenken? Dann wirst du
       hoffentlich bei uns fündig.<br> Gerne erstellen und personalisieren wir auch etwas nach deinen Wünschen. <br><br>
       Melde Dich gerne bei uns über die oben rechts aufgeführten Kontaktmöglichkeiten.</div>
   </div>
