@@ -1,11 +1,11 @@
 <template>
   <q-page padding>
-    <q-select class="q-pl-md q-pt-sm" borderless v-model="selectedCategory" :options="categories" label="Kategorie" style="width: 340px;" />
+    <q-select class="q-pl-md q-pt-sm" borderless v-model="selectedCategory" :options="categories" label="Kategorie" style="width: 335px;" />
     <div class="q-pa-md row items-start q-gutter-md">
       <q-card
         flat
         bordered
-        style="width: 300px; height: 550px"
+        style="width: 150px; height: 410px"
         v-for="product in filteredProducts"
         :key="product.id"
       >
