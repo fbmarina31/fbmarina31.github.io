@@ -1,22 +1,1553 @@
 {
-  "categories": ["Neuheiten", "Türkränze", "Geburt & Kinder", "Geburtstag", "Hochzeit", "Trauer", "Allgemeine Sets", "Frühjahr und Ostern", "Herbst", "Weihnachten", "Kerzenhalter", "Vasen", "Teller, Schalen und Töpfe", "Häuser", "Herzen", "Tiere", "Engel", "Halterungen und Einschieber", "Sonstige Formen"],
+  "categories": ["Neuheiten", "Türkränze", "Geburt & Kinder", "Geburtstag", "Hochzeit", "Trauer", "Allgemeine Sets", "Frühjahr und Ostern", "Kerzenhalter", "Vasen", "Teller, Schalen und Töpfe", "Häuser", "Herzen", "Tiere", "Engel", "Halterungen und Einschieber", "Sonstige Formen"],
   "defaultCategory": "Neuheiten",
   "products": [
     {
+      "id": "KE1",
+      "title": "Kerzenhalter klassisch",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE1.jpg",
+      "size": "7,5 x 6 x 6",
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE3",
+      "title": "Kerzenhalter Herzform",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE3.jpg",
+      "size": "7,5 x 7,5 x 2",
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE4",
+      "title": "Kerzenhalter Blumenform",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE4.jpg",
+      "size": "7,1 x 6,8",
+      "categories": "Kerzenhalter, Neuheiten"
+     },
+     {
+      "id": "KE5",
+      "title": "Kerzenhalter Teller (Ringe)",
+      "price": 6,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE5.jpg",
+      "size": 14,
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE17",
+      "title": "Kerzenhalter Teller ",
+      "price": 6,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE17.jpg",
+      "size": "14,7 x 2,8 ",
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE7",
+      "title": "Kerzenhalter U-Form",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE7.jpg",
+      "size": "9 x 6 x 4 ",
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE8",
+      "title": "Kerzenhalter Sechseck",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE8.jpg",
+      "size": "10 x 10 x 4",
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE9",
+      "title": "Kerzenhalter Teelicht oval",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE9.jpg",
+      "size": "14 x 9 x 5",
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE10",
+      "title": "Kerzenhalter Mini",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE10.jpg",
+      "size": "4 x 7,5",
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE11",
+      "title": "Kerzenhalter Mini",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE11.jpg",
+      "size": "4 x 2,5",
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE12",
+      "title": "Kerzenhalter Mini",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE12.jpg",
+      "size": "3 x 3,3 x 2,2",
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE13",
+      "title": "Kerzenhalter Mini",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE13.jpg",
+      "size": "4,7 x 2,8 ",
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE17",
+      "title": "Kerzenhalter",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE17.jpg",
+      "size": 8,
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE15",
+      "title": "Kerzenhalter Teelicht Herz",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE15.jpg",
+      "size": "13 x 11 x 4,7",
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE16",
+      "title": "Kerzenhalter für Windlicht",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE16.jpg",
+      "size": "8,2 x 2,4 ",
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE14",
+      "title": "Kerzenhalter Kuchenform",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE14.jpg",
+      "size": "9,5 x 6,5 x 3,8",
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "KE18",
+      "title": "Kerzenhalter und Stickhalter",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE18.jpg",
+      "size": "12 x 7 ",
+      "categories": "Kerzenhalter"
+     },
+     {
+      "id": "VA1",
+      "title": "Vase (Rillen)",
+      "price": 6,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_VA1.jpg",
+      "size": "9,8 x 6,8 ",
+      "categories": "Vasen"
+     },
+     {
+      "id": "VA2",
+      "title": "Vase mit Reagenzglas (rund)",
+      "price": 6,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_VA2.jpg",
+      "size": "11 x 12,5 x 3,4",
+      "categories": "Vasen"
+     },
+     {
+      "id": "VA3",
+      "title": "Vase U-Form (Rillen)",
+      "price": 6,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_VA3.jpg",
+      "size": "9 x 9,5 ",
+      "categories": "Vasen"
+     },
+     {
+      "id": "VA4",
+      "title": "Kleine Vase",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_VA4.jpg",
+      "size": "10,0 x 6 x 6 ",
+      "categories": "Vasen"
+     },
+     {
+      "id": "VA5",
+      "title": "Kleine Vase",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_VA5.jpg",
+      "size": "10,0 x 6 x 6 ",
+      "categories": "Vasen"
+     },
+     {
+      "id": "VA9",
+      "title": "Kleine Vase",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_VA9.jpg",
+      "size": 10,
+      "categories": "Vasen"
+     },
+     {
+      "id": "VA7",
+      "title": "Große Vase",
+      "price": 13,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_VA7.jpg",
+      "size": "18,5 x 11 x 7,5 ",
+      "categories": "Vasen"
+     },
+     {
+      "id": "VA8",
+      "title": "Vase groß rund",
+      "price": 10,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_VA8.jpg",
+      "size": "15 x 5 x 13,5 ",
+      "categories": "Vasen"
+     },
+     {
+      "id": "VA10",
+      "title": "Vase mit Reagenzglas (eckig)",
+      "price": 7,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_VA10.jpg",
+      "size": "11 x 11",
+      "categories": "Vasen, Neuheiten"
+     },
+     {
+      "id": "VA6",
+      "title": "Vase mit Reagenzglas (Vasenform)",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_VA6.jpg",
+      "size": "11 x 16",
+      "categories": "Vasen, Neuheiten"
+     },
+     {
+      "id": "HAE1",
+      "title": "Halterung Mini",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HAE1.jpg",
+      "size": "5,4 x 2",
+      "categories": "Halterungen und Einschieber"
+     },
+     {
+      "id": "HAE2",
+      "title": "Halterung mit Kerzenständer",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HAE2.jpg",
+      "size": "4,5 x 14",
+      "categories": "Halterungen und Einschieber"
+     },
+     {
+      "id": "HAE3",
+      "title": "Halterung Ring",
+      "price": 10,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HAE3.jpg",
+      "size": 25,
+      "categories": "Halterungen und Einschieber"
+     },
+     {
+      "id": "HAE4",
+      "title": "Halterung 1 Teelicht",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HAE4.jpg",
+      "size": "8 x 10",
+      "categories": "Halterungen und Einschieber"
+     },
+     {
+      "id": "HAE5",
+      "title": "Halterung 3 Teelichter",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HAE5.jpg",
+      "size": "20 x 10 ",
+      "categories": "Halterungen und Einschieber"
+     },
+     {
+      "id": "HAE6",
+      "title": "Einschieber Häuser",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich, Preis je Haus",
+      "image": "./images/image_HAE6.jpg",
+      "size": "3,5 x 13 ",
+      "categories": "Halterungen und Einschieber"
+     },
+     {
+      "id": "HAE7",
+      "title": "Einschieber Engel",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HAE7.jpg",
+      "size": 9,
+      "categories": "Halterungen und Einschieber"
+     },
+     {
+      "id": "HAE8",
+      "title": "Einschieber Zahlen",
+      "price": 1,
+      "description": "in weiß oder grau erhältlich, Preis je Zahl",
+      "image": "./images/image_HAE8.jpg",
+      "size": 6.5,
+      "categories": "Halterungen und Einschieber"
+     },
+     {
+      "id": "HAE9",
+      "title": "Einschieber Kuchen",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HAE9.jpg",
+      "size": 14,
+      "categories": "Halterungen und Einschieber"
+     },
+     {
+      "id": "T1",
+      "title": "Teller groß glatt",
+      "price": 10,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T1.jpg",
+      "size": 25,
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T2",
+      "title": "Teller Rillen",
+      "price": 10,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T2.jpg",
+      "size": 21.5,
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T17",
+      "title": "Teller groß Rillen",
+      "price": 10,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T17.jpg",
+      "size": 25,
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T3",
+      "title": "Teller klein",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T3.jpg",
+      "size": 17,
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T13",
+      "title": "Teller klein mit Fuß",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T13.jpg",
+      "size": "17 x 4",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T7",
+      "title": "Teller Rechteck",
+      "price": 10,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T7.jpg",
+      "size": "18 x 30 ",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T4",
+      "title": "Teller oval klein",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T4.jpg",
+      "size": "18,3 x 9,5 ",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T18",
+      "title": "Teller oval groß",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T18.jpg",
+      "size": "31,5 x 12,8 ",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T19",
+      "title": "Teller Rillen (mit Loch)",
+      "price": 10,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T19.jpg",
+      "size": 25,
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T5",
+      "title": "Teller mini",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T5.jpg",
+      "size": "10,7 x 10,7",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T9",
+      "title": "Teller mini",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T9.jpg",
+      "size": 11,
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T8",
+      "title": "Teller Sechseck",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T8.jpg",
+      "size": "11 x 12",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T16",
+      "title": "Teller Kugeln",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T16.jpg",
+      "size": 14,
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T14",
+      "title": "Teller Herz",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T14.jpg",
+      "size": "12 x 11 ",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T10",
+      "title": "Übertopf groß",
+      "price": 12,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T10.jpg",
+      "size": "18,5 x 18,5 x 12,5",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T11",
+      "title": "Schale Rillen klein",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T11.jpg",
+      "size": "7,8 x 3,8 ",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T12",
+      "title": "Schale mit Muster",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T12.jpg",
+      "size": "6,5 x 9,5 ",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T17",
+      "title": "Übertopf oval",
+      "price": 7,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T17.jpg",
+      "size": "10 x 5,5 ",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T15",
+      "title": "Übertopf klein",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T15.jpg",
+      "size": "6 x 9 ",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T18",
+      "title": "Übertopf mittel",
+      "price": 7,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T18.jpg",
+      "size": "15 x 6 ",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "T19",
+      "title": "Schale Rillen groß",
+      "price": 7,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T19.jpg",
+      "size": "15 x 6 ",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
+      "id": "HE1",
+      "title": "Herz hängend",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HE1.jpg",
+      "size": "17 x 10,5 x 2 ",
+      "categories": "Herzen"
+     },
+     {
+      "id": "HE2",
+      "title": "Herz groß",
+      "price": 10,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HE2.jpg",
+      "size": "25 x 24 x 4 ",
+      "categories": "Herzen"
+     },
+     {
+      "id": "HE3",
+      "title": "Herz mittel",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HE3.jpg",
+      "size": "12 x 12 x 3,5 ",
+      "categories": "Herzen"
+     },
+     {
+      "id": "HE4",
+      "title": "Herz hängend Mini",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HE4.jpg",
+      "size": 7,
+      "categories": "Herzen"
+     },
+     {
+      "id": "HE5",
+      "title": "Herz 2er Set",
+      "price": "1,50\/3\/5",
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HE5.jpg",
+      "size": "7 x 7 x 3,5-8 x 8 x 3,5-10 x 10 x 4,5",
+      "categories": "Herzen"
+     },
+     {
+      "id": "HE6",
+      "title": "Herz 3er Set",
+      "price": "2\/3",
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HE6.jpg",
+      "size": "4,8 x 5,8 - 6 x 8",
+      "categories": "Herzen"
+     },
+     {
+      "id": "HE9",
+      "title": "Herz Ständer",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HE9.jpg",
+      "size": "5,7 x 6,4 ",
+      "categories": "Herzen"
+     },
+     {
+      "id": "HA1",
+      "title": "2er Set Häuser groß",
+      "price": 6,
+      "description": "in weiß oder grau erhältlich, Preis je Haus",
+      "image": "./images/image_HA1.jpg",
+      "size": "16,5 x 8,5, 13,5 x 9,5",
+      "categories": "Häuser"
+     },
+     {
+      "id": "HA2",
+      "title": "4er Set Häuser",
+      "price": "2\/4",
+      "description": "in weiß oder grau erhältlich, Preis je Haus",
+      "image": "./images/image_HA2.jpg",
+      "size": "5,5-10,5 x 3",
+      "categories": "Häuser"
+     },
+     {
+      "id": "HA3",
+      "title": "2er Set Häuser klein",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich, Preis je Haus",
+      "image": "./images/image_HA3.jpg",
+      "size": "6,6 x 6 x 4,2, 10,3 x 5,1 x 4,2",
+      "categories": "Häuser"
+     },
+     {
+      "id": "HA4",
+      "title": "2er Set Lichthäuser",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich, Preis je Haus",
+      "image": "./images/image_HA4.jpg",
+      "size": "8,5 x 6,5 x 2, 11,5 x 4,5 x 2",
+      "categories": "Häuser"
+     },
+     {
+      "id": "HA5",
+      "title": "3er Set Häuser Herz",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich, Preis Set",
+      "image": "./images/image_HA5.jpg",
+      "size": "6,5 x 2,3 x 2,5, 8 x 2,8 x 2,5, 12,5 x 4 x 2,5",
+      "categories": "Häuser"
+     },
+     {
+      "id": "HA6",
+      "title": "Haus mit Loch klein",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HA6.jpg",
+      "size": "4,4 x 5,8 ",
+      "categories": "Häuser"
+     },
+     {
+      "id": "HA8",
+      "title": "4er Set Lichthäuser",
+      "price": "3\/2",
+      "description": "in weiß oder grau erhältlich, 1&2 = 3€, 3&4 =2€",
+      "image": "./images/image_HA8.jpg",
+      "size": "10 bis 3,5",
+      "categories": "Häuser, Neuheiten"
+     },
+     {
+      "id": "HA9",
+      "title": "Haus mit Loch groß",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HA9.jpg",
+      "size": "8,5 x 6,5 ",
+      "categories": "Häuser"
+     },
+     {
+      "id": "HA10",
+      "title": "Ring mit Häuser",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HA10.jpg",
+      "size": "18 x 18 ",
+      "categories": "Häuser"
+     },
+     {
+      "id": "HA11",
+      "title": "Umrisshaus",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HA11.jpg",
+      "size": "10 x 17",
+      "categories": "Häuser"
+     },
+     {
+      "id": "HA12",
+      "title": "2er Set Lichthäuser",
+      "price": "6\/9",
+      "description": "in weiß oder grau erhältlich, 1 = 6 €, 2 = 9 €",
+      "image": "./images/image_HA12.jpg",
+      "size": "15 x 10 x 6, 21 x 11 x 6 ",
+      "categories": "Häuser"
+     },
+     {
+      "id": "HA13",
+      "title": "Haus zum aufhängen mit Vögel",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HA13.jpg",
+      "size": "11,5 x 8,2",
+      "categories": "Häuser"
+     },
+     {
+      "id": "TI1",
+      "title": "Vogel",
+      "price": 6,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI1.jpg",
+      "size": "10 x 5",
+      "categories": "Tiere"
+     },
+     {
+      "id": "TI2",
+      "title": "Vogel",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI2.jpg",
+      "size": "8,5 x 6,5 cm",
+      "categories": "Tiere"
+     },
+     {
+      "id": "TI3",
+      "title": "Löwe",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI3.jpg",
+      "size": "6 x 4,7 ",
+      "categories": "Tiere"
+     },
+     {
+      "id": "TI4",
+      "title": "Elefant",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI4.jpg",
+      "size": "7,5 x 10,5 ",
+      "categories": "Tiere"
+     },
+     {
+      "id": "TI5",
+      "title": "Schwein",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI5.jpg",
+      "size": "5,5 x 6 ",
+      "categories": "Tiere"
+     },
+     {
+      "id": "TI6",
+      "title": "Einhorn",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI6.jpg",
+      "size": 7.5,
+      "categories": "Tiere"
+     },
+     {
+      "id": "TI7",
+      "title": "Alpaka",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI7.jpg",
+      "size": "9 x 6,5 ",
+      "categories": "Tiere"
+     },
+     {
+      "id": "TI8",
+      "title": "Igel",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI8.jpg",
+      "size": "4 x 6 ",
+      "categories": "Tiere"
+     },
+     {
+      "id": "TI9",
+      "title": "Teddybär",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI9.jpg",
+      "size": 4,
+      "categories": "Tiere"
+     },
+     {
+      "id": "TI10",
+      "title": "Pferd",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI10.jpg",
+      "size": "6 x 6 ",
+      "categories": "Tiere"
+     },
+     {
+      "id": "TI11",
+      "title": "Eule groß",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI11.jpg",
+      "size": "10 x 8 x 8 ",
+      "categories": "Tiere"
+     },
+     {
+      "id": "TI12",
+      "title": "Eule mini",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI12.jpg",
+      "size": "5,9 x 5,8 x 5,5",
+      "categories": "Tiere"
+     },
+     {
+      "id": "TI13",
+      "title": "Eule flach",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI13.jpg",
+      "size": "18 x 15 x 3 ",
+      "categories": "Tiere"
+     },
+     {
+      "id": "E1",
+      "title": "Engel 2er Set",
+      "price": "4\/2",
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_E1.jpg",
+      "size": "9 x 10, 7 x 7,5",
+      "categories": "Engel"
+     },
+     {
+      "id": "E2",
+      "title": "Engel Mini",
+      "price": 1,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_E2.jpg",
+      "size": "5,8 x 5,4 x 0,7 ",
+      "categories": "Engel"
+     },
+     {
+      "id": "E3",
+      "title": "Engel Anhänger",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_E3.jpg",
+      "size": 13,
+      "categories": "Engel"
+     },
+     {
+      "id": "E4",
+      "title": "Flügel",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_E4.jpg",
+      "size": "9 x 3,5 ",
+      "categories": "Engel"
+     },
+     {
+      "id": "V1",
+      "title": "Paar",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_V1.jpg",
+      "size": "11,5 x 5,5 ",
+      "categories": "Sonstige Formen"
+     },
+     {
+      "id": "V2",
+      "title": "Regenbogen",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_V2.jpg",
+      "size": "12 x 6 x 2 ",
+      "categories": "Sonstige Formen"
+     },
+     {
+      "id": "V3",
+      "title": "Gesicht",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_V3.jpg",
+      "size": "11,6 x 6,5 ",
+      "categories": "Sonstige Formen"
+     },
+     {
+      "id": "V4",
+      "title": "Bus",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_V4.jpg",
+      "size": "5  x 10 ",
+      "categories": "Sonstige Formen"
+     },
+     {
+      "id": "V5",
+      "title": "Bus offen",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_V5.jpg",
+      "size": "5  x 10 ",
+      "categories": "Sonstige Formen"
+     },
+     {
+      "id": "V6",
+      "title": "Mutter\/Kind",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_V6.jpg",
+      "size": "9,3 x 4,6 ",
+      "categories": "Sonstige Formen"
+     },
+     {
+      "id": "V7",
+      "title": "Rose",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_V7.jpg",
+      "size": "6,5 x 6 ",
+      "categories": "Sonstige Formen"
+     },
+     {
+      "id": "V8",
+      "title": "2er Set Blumen",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich, Preis je Blume",
+      "image": "./images/image_V8.jpg",
+      "size": "7 x 6 x 3 ",
+      "categories": "Sonstige Formen"
+     },
+     {
+      "id": "V9",
+      "title": "Figur Gesichter",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_V9.jpg",
+      "size": 20,
+      "categories": "Sonstige Formen"
+     },
+     {
+      "id": "V10",
+      "title": "Buchstaben",
+      "price": 1,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_V10.jpg",
+      "size": 6,
+      "categories": "Sonstige Formen"
+     },
+     {
+      "id": 5,
+      "title": "Kerze ",
+      "price": 4,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nHolzbox ist inklusive",
+      "image": "./images/image_5.jpg",
+      "categories": "Allgemeine Sets"
+     },
+     {
+      "id": 6,
+      "title": "Kerzenhalter Set",
+      "price": 10,
+      "description": "Wähle den Aufdruck der Kerze selbst aus",
+      "image": "./images/image_6.jpg",
+      "categories": "Allgemeine Sets"
+     },
+     {
+      "id": 7,
+      "title": "Kerzenhalter Set (U-Form)",
+      "price": 8,
+      "description": "Wähle den Aufdruck der Kerze selbst aus",
+      "image": "./images/image_7.jpg",
+      "categories": "Allgemeine Sets"
+     },
+     {
+      "id": "7a",
+      "title": "Kerzenhalter-Set (U-Form Rillen)",
+      "price": 8,
+      "description": "Wähle den Aufdruck der Kerze selbst aus",
+      "image": "./images/image_7a.jpg",
+      "categories": "Allgemeine Sets"
+     },
+     {
+      "id": 8,
+      "title": "Set Topf und Kerze",
+      "price": 8,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nDekoration inklusive",
+      "image": "./images/image_8.jpg",
+      "categories": "Allgemeine Sets"
+     },
+     {
+      "id": 9,
+      "title": "Mini Kerzen",
+      "price": 5,
+      "description": "Wähle den Aufdruck der Kerze und des\nKerzenhalters selbst aus",
+      "image": "./images/image_9.jpg",
+      "categories": "Allgemeine Sets"
+     },
+     {
+      "id": 41,
+      "title": "Set Topf und Kerze",
+      "price": 12,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nDekoration inklusive",
+      "image": "./images/image_41.jpg",
+      "categories": "Allgemeine Sets"
+     },
+     {
+      "id": 52,
+      "title": "Windlicht",
+      "price": 21,
+      "description": "Kerzenhalter und Windlicht\nAufdruck inklusive",
+      "image": "./images/image_52.jpg",
+      "categories": "Allgemeine Sets"
+     },
+     {
+      "id": 25,
+      "title": "Herz Set",
+      "price": 11,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nWähle dein Herz selbst aus, Holzbox ist inklusive",
+      "image": "./images/image_25.jpg",
+      "categories": "Allgemeine Sets, Herzen, Geburtstag"
+     },
+     {
+      "id": 63,
+      "title": "Geschenk Set",
+      "price": 12,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nMini Umschlag inklusive,\nHolzbox ist inklusive,",
+      "image": "./images/image_63.jpg",
+      "categories": "Allgemeine Sets, Hochzeit"
+     },
+     {
+      "id": 25,
+      "title": "Set zur Hochzeit",
+      "price": 13,
+      "description": "Wähle den Aufdruck der Kerze sowie des\nHerzes selbst aus, Holzbox ist inklusive",
+      "image": "./images/image_25.jpg",
+      "categories": "Hochzeit, Herzen"
+     },
+     {
+      "id": 11,
+      "title": "3er Set Häuser",
+      "price": 13,
+      "description": "„Name“ der Holzbox personalisiert,\nHolzbox ist inklusive",
+      "image": "./images/image_11.jpg",
+      "categories": "Hochzeit, Häuser"
+     },
+     {
+      "id": "11a",
+      "title": "3er Set Häuser",
+      "price": 13,
+      "description": "„Name“ der Holzbox personalisiert,\nHolzbox ist inklusive",
+      "image": "./images/image_11a.jpg",
+      "categories": "Hochzeit, Häuser"
+     },
+     {
+      "id": 13,
+      "title": "2er Set Häuser",
+      "price": 13,
+      "description": "Aufdruck der Häuser wie abgebildet, \nHolzbox ist inklusive",
+      "image": "./images/image_13.jpg",
+      "categories": "Häuser"
+     },
+     {
+      "id": 14,
+      "title": "2er Set Häuser",
+      "price": 12,
+      "description": "Aufdruck der Häuser wie abgebildet",
+      "image": "./images/image_14.jpg",
+      "categories": "Häuser"
+     },
+     {
+      "id": 26,
+      "title": "Set zur Hochzeit",
+      "price": 10,
+      "description": "Buchstaben und Figur wahlweise in grau oder\nweiß erhältlich, „Name“ für Holzbox personalisierbar, Holzbox ist inklusive",
+      "image": "./images/image_26.jpg",
+      "categories": "Hochzeit"
+     },
+     {
+      "id": 64,
+      "title": "Set zur Hochzeit",
+      "price": 15,
+      "description": "„Name“ für Haus personalisierbar,\nHolzbox ist inklusive",
+      "image": "./images/image_64.jpg",
+      "categories": "Hochzeit, Häuser"
+     },
+     {
+      "id": 65,
+      "title": "Set zur Hochzeit",
+      "price": 10,
+      "description": "„Name“ für Holzbox personalisierbar,\n„Datum“ für Haus personalisierbar, \nHolzbox ist inklusive",
+      "image": "./images/image_65.jpg",
+      "categories": "Hochzeit, Häuser"
+     },
+     {
+      "id": 66,
+      "title": "Set zur Hochzeit",
+      "price": 16,
+      "description": "„Name“ für Haus personalisierbar,\n„Datum“ für Haus personalisierbar,\nHolzbox ist inklusive",
+      "image": "./images/image_66.jpg",
+      "categories": "Hochzeit, Häuser"
+     },
+     {
+      "id": 15,
+      "title": "2er Set Häuser",
+      "price": 14,
+      "description": "Namen für Haus personalisierbar",
+      "image": "./images/image_15.jpg",
+      "categories": "Häuser"
+     },
+     {
+      "id": 79,
+      "title": "Set zur Hochzeit",
+      "price": 12,
+      "description": "„Namen“ für Haus personalisierbar, \nHolzbox ist inklusive",
+      "image": "./images/image_79.jpg",
+      "categories": "Hochzeit, Häuser"
+     },
+     {
+      "id": 67,
+      "title": "Set zur Hochzeit",
+      "price": 13,
+      "description": "„Name“ für Haus personalisierbar,\n„Datum“ für Haus personalisierbar",
+      "image": "./images/image_67.jpg",
+      "categories": "Hochzeit, Häuser"
+     },
+     {
+      "id": 68,
+      "title": "Set zur Hochzeit",
+      "price": 10,
+      "description": "„Name“ für Haus personalisierbar",
+      "image": "./images/image_68.jpg",
+      "categories": "Hochzeit, Häuser"
+     },
+     {
+      "id": 48,
+      "title": "Set zur Hochzeit",
+      "price": 10,
+      "description": "Wähle den Aufdruck der Kerze selbst aus, Trockenblumen inklusive",
+      "image": "./images/image_48.jpg",
+      "categories": "Hochzeit"
+     },
+     {
+      "id": 49,
+      "title": "Set zur Hochzeit",
+      "price": 10,
+      "description": "Wähle den Aufdruck der Kerze selbst aus, Wunderkerze inklusive",
+      "image": "./images/image_49.jpg",
+      "categories": "Hochzeit"
+     },
+     {
+      "id": 50,
+      "title": "Set zur Hochzeit",
+      "price": 8,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nTrockenblumen inklusive",
+      "image": "./images/image_50.jpg",
+      "categories": "Hochzeit"
+     },
+     {
+      "id": 58,
+      "title": "Glücksset",
+      "price": 13,
+      "description": "Wähle den Aufdruck der Kerze selbst aus",
+      "image": "./images/image_58.jpg",
+      "categories": "Allgemeine Sets"
+     },
+     {
+      "id": 19,
+      "title": "Skandi Häuser Set",
+      "price": 12,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nHolzbox ist inklusive",
+      "image": "./images/image_19.jpg",
+      "categories": "Allgemeine Sets, Geburtstag"
+     },
+     {
+      "id": 20,
+      "title": "Skandi Häuser Set",
+      "price": 12,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nHolzbox ist inklusive",
+      "image": "./images/image_20.jpg",
+      "categories": "Allgemeine Sets, Geburtstag"
+     },
+     {
+      "id": 21,
+      "title": "Häuser Set",
+      "price": 13,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nHolzbox ist inklusive, Aufdruck auf Haus und Kerzenhalter kann\nnach Wunsch angepasst werden",
+      "image": "./images/image_21.jpg",
+      "categories": "Allgemeine Sets, Geburtstag"
+     },
+     {
+      "id": 42,
+      "title": "Set Haus & Kerzenhalter",
+      "price": 14,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nHolzbox ist inklusive,\nTrockenblumen inklusive",
+      "image": "./images/image_42.jpg",
+      "categories": "Allgemeine Sets"
+     },
+     {
+      "id": 23,
+      "title": "Häuser Set",
+      "price": 10,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nHolzbox ist inklusive",
+      "image": "./images/image_23.jpg",
+      "categories": "Häuser, Allgemeine Sets"
+     },
+     {
+      "id": 24,
+      "title": "Häuser Set",
+      "price": 8,
+      "description": "Wähle den Aufdruck der Holzbox selbst aus",
+      "image": "./images/image_24.jpg",
+      "categories": "Häuser, Allgemeine Sets"
+     },
+     {
+      "id": 17,
+      "title": "Set Haus und Kerze",
+      "price": 10,
+      "description": "Aufdruck auf Haus kann nach Wunsch\nangepasst werden, Wähle den Aufdruck der Kerze selbst aus,\nHolzbox ist inklusive",
+      "image": "./images/image_17.jpg",
+      "categories": "Häuser, Allgemeine Sets"
+     },
+     {
+      "id": 18,
+      "title": "Set zum Einzug",
+      "price": 14,
+      "description": "Aufdruck der Kerzen und des Hauses wie\nabgebildet, Haus wahlweise in grau oder weiß erhältlich,\nHolzbox ist inklusive",
+      "image": "./images/image_18.jpg",
+      "categories": "Häuser, Allgemeine Sets"
+     },
+     {
+      "id": 69,
+      "title": "Häuser Ring",
+      "price": 20,
+      "description": "Ringhalterung inkl. Häuser und Kerze",
+      "image": "./images/image_69.jpg",
+      "categories": "Häuser"
+     },
+     {
+      "id": 70,
+      "title": "Lichthäuser",
+      "price": 17,
+      "description": "4 Häuser inkl. Teelichter Halterung",
+      "image": "./images/image_70.jpg",
+      "categories": "Häuser"
+     },
+     {
+      "id": 57,
+      "title": "Lichthäuser",
+      "price": 12,
+      "description": "4 Häuser inkl. Teelichter und Holzaufsteller",
+      "image": "./images/image_57.jpg",
+      "categories": "Häuser"
+     },
+     {
+      "id": 78,
+      "title": "Lichthäuser",
+      "price": 16,
+      "description": "2 Häuser inkl. Teelichter",
+      "image": "./images/image_78.jpg",
+      "categories": "Häuser"
+     },
+     {
+      "id": 71,
+      "title": "Baby Geschenk",
+      "price": 13,
+      "description": "„Name“ für Holzbox personalisierbar,\nWähle den Aufdruck der Kerze selbst aus,\nMini Umschlag & Holzbox ist inkl.",
+      "image": "./images/image_71.jpg",
+      "categories": "Geburt & Kinder"
+     },
+     {
+      "id": 72,
+      "title": "Baby Geschenk ",
+      "price": 13,
+      "description": "„Name“ für Holzbox personalisierbar,\nWähle den Aufdruck der Kerze selbst aus,\nMini Umschlag & Holzbox ist inkl.",
+      "image": "./images/image_72.jpg",
+      "categories": "Geburt & Kinder"
+     },
+     {
+      "id": 73,
+      "title": "Baby Geschenk",
+      "price": 12,
+      "description": "„Name“ für Holzbox personalisierbar, Wähle den Aufdruck der Kerze selbst aus, Holzbox ist inklusive",
+      "image": "./images/image_73.jpg",
+      "categories": "Allgemeine Sets"
+     },
+     {
+      "id": 38,
+      "title": "Set Vase, Teller & Figur",
+      "price": 17,
+      "description": "Dekoration inklusive",
+      "image": "./images/image_38.jpg",
+      "categories": "Geburt & Kinder"
+     },
+     {
+      "id": 30,
+      "title": "Set Name und Tier",
+      "price": 15,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nBuchstaben personalisierbar,\nTier wählbar,\nHolzbox ist inklusive",
+      "image": "./images/image_30.jpg",
+      "categories": "Geburt & Kinder"
+     },
+     {
+      "id": 32,
+      "title": "Geburtstagsteller",
+      "price": 10,
+      "description": "Dekoration inklusive",
+      "image": "./images/image_32.jpg",
+      "categories": "Geburt & Kinder"
+     },
+     {
+      "id": 77,
+      "title": "Ring mit Name und Geburtsdaten",
+      "price": 12,
+      "description": "Personalisierbar, Betonfuß inklusive",
+      "image": "./images/image_77.jpg",
+      "categories": "Geburt & Kinder"
+     },
+     {
+      "id": 33,
+      "title": "Baby Geschenk",
+      "price": 10,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nHaus kann nach Wunsch ersetzt werden,\nHolzbox ist inklusive",
+      "image": "./images/image_33.jpg",
+      "categories": "Geburt & Kinder"
+     },
+     {
+      "id": 34,
+      "title": "Baby Geschenk",
+      "price": 10,
+      "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nEinhorn kann nach Wunsch ersetzt werden",
+      "image": "./images/image_34.jpg",
+      "categories": "Geburt & Kinder"
+     },
+     {
+      "id": 74,
+      "title": "Trauergeschenk",
+      "price": 8,
+      "description": "Aufdruck siehe Abbildung",
+      "image": "./images/image_74.jpg",
+      "categories": "Trauer"
+     },
+     {
+      "id": 75,
+      "title": "Trauergeschenk",
+      "price": 12,
+      "description": "Aufdruck Kerze siehe Abbildung,\nName kann ausgewählt werden",
+      "image": "./images/image_75.jpg",
+      "categories": "Trauer"
+     },
+     {
+      "id": 39,
+      "title": "Trauergeschenk",
+      "price": 14,
+      "description": "Wähle den Aufdruck der Kerze selbst aus",
+      "image": "./images/image_39.jpg",
+      "categories": "Trauer"
+     },
+     {
+      "id": 40,
+      "title": "Trauergeschenk",
+      "price": 5,
+      "description": "Wähle den Aufdruck der Kerze selbst aus",
+      "image": "./images/image_40.jpg",
+      "categories": "Trauer"
+     },
+     {
+      "id": 59,
+      "title": "Halterung & Einschieber",
+      "price": 9,
+      "description": "Wähle den Aufdruck der Kerze selbst aus",
+      "image": "./images/image_59.jpg",
+      "categories": "Geburtstag"
+     },
+     {
+      "id": 60,
+      "title": "Halterung & Einschieber",
+      "price": 8,
+      "description": "4 Häuser inkl. Teelichter und Holzaufsteller",
+      "image": "./images/image_60.jpg",
+      "categories": "Geburtstag"
+     },
+     {
+      "id": 61,
+      "title": "Halterung & Einschieber",
+      "price": 14,
+      "description": "Wähle den Aufdruck der Kerze selbst aus",
+      "image": "./images/image_61.jpg",
+      "categories": "Geburtstag"
+     },
+     {
+      "id": 62,
+      "title": "Trauergeschenk",
+      "price": 7,
+      "description": "Wähle den Aufdruck der Kerze selbst aus",
+      "image": "./images/image_62.jpg",
+      "categories": "Trauer"
+     },
+     {
+      "id": "O1",
+      "title": "Eier",
+      "price": "2\/4",
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_O1.jpg",
+      "size": "6,8 x 9, 4,2 x 6 ",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": "O2",
+      "title": "Ei flach",
+      "price": 7,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_O2.jpg",
+      "size": "14 x 17,5 ",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": "O3",
+      "title": "Eierbecher",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_O3.jpg",
+      "size": "4,1 x 3,4 x 9,8 ",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": "O4",
+      "title": "Hasenmädchen",
+      "price": "2\/4",
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_O4.jpg",
+      "size": "12,5 x 6,7 x 2,5, 7,5 x 5 x 1,5 ",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": "O5",
+      "title": "Ei mit Ohren",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich, Preis je Form",
+      "image": "./images/image_O5.jpg",
+      "size": "7,6 x 7,5 x 11 ",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": "O6",
+      "title": "Hahn",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_O6.jpg",
+      "size": "5 x 6,7 ",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": "O7",
+      "title": "Hase mit Anhänger",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_O7.jpg",
+      "size": "10,4 x 9,5 ",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": "O8",
+      "title": "Hase mit Hasenkind",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_O8.jpg",
+      "size": "12 x 8 x 2 ",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": "O9",
+      "title": "2er Set Hasen mit Herz",
+      "price": "3\/4",
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_O9.jpg",
+      "size": "13,4 x 6, 8,2 x 3,8 ",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": "O10",
+      "title": "3er Set Hasen",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich, Preis je Form",
+      "image": "./images/image_O10.jpg",
+      "size": "12,5 x 8, 13,4 x 6,9, 12,2 x 8 cm",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": "O11",
+      "title": "Hase mit Herz",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_O11.jpg",
+      "size": 15.5,
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": 63,
+      "title": "Hase & Ü-EI ",
+      "price": 6,
+      "description": "Überraschungsei inklusive",
+      "image": "./images/image_63.jpg",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": 64,
+      "title": "Kleine Schale mit Ei ",
+      "price": 8,
+      "description": "Dekoration inklusive",
+      "image": "./images/image_64.jpg",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": 65,
+      "title": "Schale mit Hase ",
+      "price": 14,
+      "description": "Dekoration inklusive",
+      "image": "./images/image_65.jpg",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": 66,
+      "title": "Schale mit Hasen ",
+      "price": 16,
+      "description": "Dekoration inklusive",
+      "image": "./images/image_66.jpg",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": 59,
+      "title": "Set Hasenmädchen ",
+      "price": 10,
+      "description": "Wähle den Aufdruck der Kerze selbst aus",
+      "image": "./images/image_59.jpg",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": 67,
+      "title": "Kerze in Eierbecher ",
+      "price": 7,
+      "description": "Wähle den Aufdruck der Kerze selbst aus",
+      "image": "./images/image_67.jpg",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": 68,
+      "title": "Anhänger Frohe Ostern",
+      "price": 6,
+      "description": "Für Tür oder Fenster",
+      "image": "./images/image_68.jpg",
+      "size": "Höhe 290",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
       "id": 1,
       "title": "Türkranz",
       "price": 20,
-      "description": "25cm oder 30cm Durchmesser. Band personalisierbar",
-      "image": "./images/Türkranz/20220904_125315858_iOS.jpg",
+      "description": "30cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T1.jpg",
       "size": 30,
-      "categories": "Neuheiten, Türkränze"
+      "categories": "Türkränze"
      },
      {
       "id": 2,
       "title": "Türkranz",
       "price": 20,
-      "description": "25cm oder 30cm Durchmesser. Band personalisierbar",
-      "image": "./images/20230911_115711091_iOS.jpg",
+      "description": "30cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T2.jpg",
       "size": 30,
       "categories": "Türkränze"
      },
@@ -24,8 +1555,8 @@
       "id": 3,
       "title": "Türkranz",
       "price": 20,
-      "description": "25cm oder 30cm Durchmesser. Band personalisierbar",
-      "image": "./images/Türkranz/20220924_161519497_iOS.jpg",
+      "description": "30cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T3.jpg",
       "size": 30,
       "categories": "Türkränze"
      },
@@ -33,8 +1564,8 @@
       "id": 4,
       "title": "Türkranz",
       "price": 20,
-      "description": "25cm oder 30cm Durchmesser. Band personalisierbar",
-      "image": "./images/Türkranz/20220826_112755850_iOS.jpg",
+      "description": "30cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T4.jpg",
       "size": 30,
       "categories": "Türkränze"
      },
@@ -42,8 +1573,8 @@
       "id": 5,
       "title": "Türkranz",
       "price": 23,
-      "description": "25cm oder 30cm Durchmesser. Band personalisierbar",
-      "image": "./images/Türkranz/20230911_115737443_iOS.jpg",
+      "description": "30cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T5.jpg",
       "size": 30,
       "categories": "Türkränze"
      },
@@ -51,8 +1582,8 @@
       "id": 6,
       "title": "Türkranz",
       "price": 23,
-      "description": "25cm oder 30cm Durchmesser. Band personalisierbar",
-      "image": "./images/Türkranz/20230419_111213254_iOS.jpg",
+      "description": "30cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T6.jpg",
       "size": 30,
       "categories": "Türkränze"
      },
@@ -60,9 +1591,144 @@
       "id": 7,
       "title": "Türkranz",
       "price": 15,
-      "description": "25cm oder 30cm Durchmesser. Band personalisierbar",
-      "image": "./images/Türkranz/20220805_132024908_iOS.jpg",
+      "description": "30cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T7.jpg",
       "size": 30,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 8,
+      "title": "Türkranz",
+      "price": 17,
+      "description": "25cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T8.jpg",
+      "size": 25,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 9,
+      "title": "Türkranz",
+      "price": 17,
+      "description": "25cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T9.jpg",
+      "size": 25,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 10,
+      "title": "Türkranz",
+      "price": 17,
+      "description": "25cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T10.jpg",
+      "size": 25,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 11,
+      "title": "Türkranz",
+      "price": 20,
+      "description": "25cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T11.jpg",
+      "size": 25,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 12,
+      "title": "Türkranz",
+      "price": 20,
+      "description": "25cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T12.jpg",
+      "size": 25,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 13,
+      "title": "Türkranz",
+      "price": 17,
+      "description": "25cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T13.jpg",
+      "size": 25,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 14,
+      "title": "Türkranz",
+      "price": 13,
+      "description": "25cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T14.jpg",
+      "size": 25,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 15,
+      "title": "Türkranz",
+      "price": 13,
+      "description": "25cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T15.jpg",
+      "size": 25,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 16,
+      "title": "Türkranz Holzring",
+      "price": 22,
+      "description": "30cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T16.jpg",
+      "size": 30,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 17,
+      "title": "Türkranz Holzring",
+      "price": 22,
+      "description": "30cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T17.jpg",
+      "size": 30,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 18,
+      "title": "Türkranz Holzring",
+      "price": 22,
+      "description": "30cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T18.jpg",
+      "size": 30,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 19,
+      "title": "Türkranz Holzring",
+      "price": 25,
+      "description": "30cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T19.jpg",
+      "size": 30,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 20,
+      "title": "Türkranz Holzring",
+      "price": 22,
+      "description": "30cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T20.jpg",
+      "size": 30,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 21,
+      "title": "Türkranz Holzring",
+      "price": 20,
+      "description": "20cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T21.jpg",
+      "size": 20,
+      "categories": "Türkränze"
+     },
+     {
+      "id": 22,
+      "title": "Türkranz Holzring",
+      "price": 10,
+      "description": "20cm Durchmesser. Band personalisierbar",
+      "image": "./images/image_T22.jpg",
+      "size": 20,
       "categories": "Türkränze"
      }
   ]
