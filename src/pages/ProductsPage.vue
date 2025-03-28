@@ -13,7 +13,7 @@
 
         <q-list>
           <q-item-section>
-            <q-item-label class="text-h5 bg-grey-3 q-pa-xs text-center">{{
+            <q-item-label class="text-h6 bg-grey-3 q-pa-xs text-center">{{
               product.title
             }}</q-item-label>
             <div class="row q-pa-xs q-mt-sm text-grey-9">
