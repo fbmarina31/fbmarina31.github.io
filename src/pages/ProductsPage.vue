@@ -5,7 +5,7 @@
       <q-card
         flat
         bordered
-        style="width: 150px; height: 410px"
+        style="width: 150px; height: 450px"
         v-for="product in filteredProducts"
         :key="product.id"
       >
@@ -13,7 +13,7 @@
 
         <q-list>
           <q-item-section>
-            <q-item-label class="text-h6 bg-grey-3 q-pa-xs text-center">{{
+            <q-item-label class="text-text-subtitle2 text-weight-bold bg-grey-3 q-pa-xs text-center">{{
               product.title
             }}</q-item-label>
             <div class="row q-pa-xs q-mt-sm text-grey-9">
@@ -24,7 +24,7 @@
               <div class="q-px-xs text-grey-9">Preis</div>
               <div class="q-px-xs text-weight-bold text-grey-9">{{ product.price }} €</div>
             </div>
-            <div class="row q-pa-xs text-grey-9">
+            <div v-if="product.size" class="row q-pa-xs text-grey-9">
               <div class="q-px-xs text-grey-9">Maße</div>
               <div class="q-px-xs text-weight-bold text-grey-9">{{ product.size }} cm</div>
             </div>
