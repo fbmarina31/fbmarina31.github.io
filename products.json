@@ -1481,7 +1481,7 @@
       "title": "Hase & Ü-EI ",
       "price": 6,
       "description": "Überraschungsei inklusive",
-      "image": "./images/image_63.jpg",
+      "image": "./images/image_90.jpg",
       "categories": "Frühjahr und Ostern"
      },
      {
@@ -1489,7 +1489,7 @@
       "title": "Kleine Schale mit Ei ",
       "price": 8,
       "description": "Dekoration inklusive",
-      "image": "./images/image_64.jpg",
+      "image": "./images/image_91.jpg",
       "categories": "Frühjahr und Ostern"
      },
      {
@@ -1497,7 +1497,7 @@
       "title": "Schale mit Hase ",
       "price": 14,
       "description": "Dekoration inklusive",
-      "image": "./images/image_65.jpg",
+      "image": "./images/image_92.jpg",
       "categories": "Frühjahr und Ostern"
      },
      {
@@ -1505,7 +1505,7 @@
       "title": "Schale mit Hasen ",
       "price": 16,
       "description": "Dekoration inklusive",
-      "image": "./images/image_66.jpg",
+      "image": "./images/image_93.jpg",
       "categories": "Frühjahr und Ostern"
      },
      {
@@ -1513,7 +1513,7 @@
       "title": "Set Hasenmädchen ",
       "price": 10,
       "description": "Wähle den Aufdruck der Kerze selbst aus",
-      "image": "./images/image_59.jpg",
+      "image": "./images/image_96.jpg",
       "categories": "Frühjahr und Ostern"
      },
      {
@@ -1521,7 +1521,7 @@
       "title": "Kerze in Eierbecher ",
       "price": 7,
       "description": "Wähle den Aufdruck der Kerze selbst aus",
-      "image": "./images/image_67.jpg",
+      "image": "./images/image_94.jpg",
       "categories": "Frühjahr und Ostern"
      },
      {
@@ -1529,7 +1529,7 @@
       "title": "Anhänger Frohe Ostern",
       "price": 6,
       "description": "Für Tür oder Fenster",
-      "image": "./images/image_68.jpg",
+      "image": "./images/image_95.jpg",
       "size": "Höhe 290",
       "categories": "Frühjahr und Ostern"
      },
@@ -1537,7 +1537,7 @@
       "id": 1,
       "title": "Türkranz",
       "price": 20,
-      "description": "30cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T1.jpg",
       "size": 30,
       "categories": "Türkränze"
@@ -1546,7 +1546,7 @@
       "id": 2,
       "title": "Türkranz",
       "price": 20,
-      "description": "30cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T2.jpg",
       "size": 30,
       "categories": "Türkränze"
@@ -1555,7 +1555,7 @@
       "id": 3,
       "title": "Türkranz",
       "price": 20,
-      "description": "30cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T3.jpg",
       "size": 30,
       "categories": "Türkränze"
@@ -1564,7 +1564,7 @@
       "id": 4,
       "title": "Türkranz",
       "price": 20,
-      "description": "30cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T4.jpg",
       "size": 30,
       "categories": "Türkränze"
@@ -1573,7 +1573,7 @@
       "id": 5,
       "title": "Türkranz",
       "price": 23,
-      "description": "30cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T5.jpg",
       "size": 30,
       "categories": "Türkränze"
@@ -1582,7 +1582,7 @@
       "id": 6,
       "title": "Türkranz",
       "price": 23,
-      "description": "30cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T6.jpg",
       "size": 30,
       "categories": "Türkränze"
@@ -1591,7 +1591,7 @@
       "id": 7,
       "title": "Türkranz",
       "price": 15,
-      "description": "30cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T7.jpg",
       "size": 30,
       "categories": "Türkränze"
@@ -1600,7 +1600,7 @@
       "id": 8,
       "title": "Türkranz",
       "price": 17,
-      "description": "25cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T8.jpg",
       "size": 25,
       "categories": "Türkränze"
@@ -1609,7 +1609,7 @@
       "id": 9,
       "title": "Türkranz",
       "price": 17,
-      "description": "25cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T9.jpg",
       "size": 25,
       "categories": "Türkränze"
@@ -1618,7 +1618,7 @@
       "id": 10,
       "title": "Türkranz",
       "price": 17,
-      "description": "25cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T10.jpg",
       "size": 25,
       "categories": "Türkränze"
@@ -1627,7 +1627,7 @@
       "id": 11,
       "title": "Türkranz",
       "price": 20,
-      "description": "25cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T11.jpg",
       "size": 25,
       "categories": "Türkränze"
@@ -1636,7 +1636,7 @@
       "id": 12,
       "title": "Türkranz",
       "price": 20,
-      "description": "25cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T12.jpg",
       "size": 25,
       "categories": "Türkränze"
@@ -1645,7 +1645,7 @@
       "id": 13,
       "title": "Türkranz",
       "price": 17,
-      "description": "25cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T13.jpg",
       "size": 25,
       "categories": "Türkränze"
@@ -1654,7 +1654,7 @@
       "id": 14,
       "title": "Türkranz",
       "price": 13,
-      "description": "25cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T14.jpg",
       "size": 25,
       "categories": "Türkränze"
@@ -1663,7 +1663,7 @@
       "id": 15,
       "title": "Türkranz",
       "price": 13,
-      "description": "25cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T15.jpg",
       "size": 25,
       "categories": "Türkränze"
@@ -1672,7 +1672,7 @@
       "id": 16,
       "title": "Türkranz Holzring",
       "price": 22,
-      "description": "30cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T16.jpg",
       "size": 30,
       "categories": "Türkränze"
@@ -1681,7 +1681,7 @@
       "id": 17,
       "title": "Türkranz Holzring",
       "price": 22,
-      "description": "30cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T17.jpg",
       "size": 30,
       "categories": "Türkränze"
@@ -1690,7 +1690,7 @@
       "id": 18,
       "title": "Türkranz Holzring",
       "price": 22,
-      "description": "30cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T18.jpg",
       "size": 30,
       "categories": "Türkränze"
@@ -1699,7 +1699,7 @@
       "id": 19,
       "title": "Türkranz Holzring",
       "price": 25,
-      "description": "30cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T19.jpg",
       "size": 30,
       "categories": "Türkränze"
@@ -1708,7 +1708,7 @@
       "id": 20,
       "title": "Türkranz Holzring",
       "price": 22,
-      "description": "30cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T20.jpg",
       "size": 30,
       "categories": "Türkränze"
@@ -1717,7 +1717,7 @@
       "id": 21,
       "title": "Türkranz Holzring",
       "price": 20,
-      "description": "20cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T21.jpg",
       "size": 20,
       "categories": "Türkränze"
@@ -1726,7 +1726,7 @@
       "id": 22,
       "title": "Türkranz Holzring",
       "price": 10,
-      "description": "20cm Durchmesser. Band personalisierbar",
+      "description": "Band personalisierbar",
       "image": "./images/image_T22.jpg",
       "size": 20,
       "categories": "Türkränze"
