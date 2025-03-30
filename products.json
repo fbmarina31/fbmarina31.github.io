@@ -111,11 +111,11 @@
       "categories": "Kerzenhalter"
      },
      {
-      "id": "KE17",
+      "id": "KE19",
       "title": "Kerzenhalter",
       "price": 4,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_KE17.jpg",
+      "image": "./images/image_KE19.jpg",
       "size": 8,
       "categories": "Kerzenhalter"
      },
@@ -237,11 +237,11 @@
       "categories": "Vasen, Neuheiten"
      },
      {
-      "id": "VA6",
+      "id": "VA11",
       "title": "Vase mit Reagenzglas (Vasenform)",
       "price": 5,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_VA6.jpg",
+      "image": "./images/image_VA11.jpg",
       "size": "11 x 16",
       "categories": "Vasen, Neuheiten"
      },
@@ -327,191 +327,191 @@
       "categories": "Halterungen und Einschieber"
      },
      {
-      "id": "T1",
+      "id": "TE1",
       "title": "Teller groß glatt",
       "price": 10,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T1.jpg",
+      "image": "./images/image_TE1.jpg",
       "size": 25,
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T2",
+      "id": "TE2",
       "title": "Teller Rillen",
       "price": 10,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T2.jpg",
+      "image": "./images/image_TE2.jpg",
       "size": 21.5,
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T17",
+      "id": "TE17",
       "title": "Teller groß Rillen",
       "price": 10,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T17.jpg",
+      "image": "./images/image_TE17.jpg",
       "size": 25,
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T3",
+      "id": "TE3",
       "title": "Teller klein",
       "price": 5,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T3.jpg",
+      "image": "./images/image_TE3.jpg",
       "size": 17,
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T13",
+      "id": "TE13",
       "title": "Teller klein mit Fuß",
       "price": 8,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T13.jpg",
+      "image": "./images/image_TE13.jpg",
       "size": "17 x 4",
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T7",
+      "id": "TE7",
       "title": "Teller Rechteck",
       "price": 10,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T7.jpg",
+      "image": "./images/image_TE7.jpg",
       "size": "18 x 30 ",
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T4",
+      "id": "TE4",
       "title": "Teller oval klein",
       "price": 5,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T4.jpg",
+      "image": "./images/image_TE4.jpg",
       "size": "18,3 x 9,5 ",
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T18",
+      "id": "TE18",
       "title": "Teller oval groß",
       "price": 8,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T18.jpg",
+      "image": "./images/image_TE18.jpg",
       "size": "31,5 x 12,8 ",
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T19",
+      "id": "TE19",
       "title": "Teller Rillen (mit Loch)",
       "price": 10,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T19.jpg",
+      "image": "./images/image_TE19.jpg",
       "size": 25,
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T5",
+      "id": "TE5",
       "title": "Teller mini",
       "price": 3,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T5.jpg",
+      "image": "./images/image_TE5.jpg",
       "size": "10,7 x 10,7",
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T9",
+      "id": "TE9",
       "title": "Teller mini",
       "price": 3,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T9.jpg",
+      "image": "./images/image_TE9.jpg",
       "size": 11,
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T8",
+      "id": "TE8",
       "title": "Teller Sechseck",
       "price": 3,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T8.jpg",
+      "image": "./images/image_TE8.jpg",
       "size": "11 x 12",
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T16",
+      "id": "TE16",
       "title": "Teller Kugeln",
       "price": 5,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T16.jpg",
+      "image": "./images/image_TE16.jpg",
       "size": 14,
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T14",
+      "id": "TE14",
       "title": "Teller Herz",
       "price": 4,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T14.jpg",
+      "image": "./images/image_TE14.jpg",
       "size": "12 x 11 ",
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T10",
+      "id": "TE10",
       "title": "Übertopf groß",
       "price": 12,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T10.jpg",
+      "image": "./images/image_TE10.jpg",
       "size": "18,5 x 18,5 x 12,5",
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T11",
+      "id": "TE11",
       "title": "Schale Rillen klein",
       "price": 3,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T11.jpg",
+      "image": "./images/image_TE11.jpg",
       "size": "7,8 x 3,8 ",
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T12",
+      "id": "TE12",
       "title": "Schale mit Muster",
       "price": 5,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T12.jpg",
+      "image": "./images/image_TE12.jpg",
       "size": "6,5 x 9,5 ",
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T17",
+      "id": "TE20",
       "title": "Übertopf oval",
       "price": 7,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T17.jpg",
+      "image": "./images/image_TE20.jpg",
       "size": "10 x 5,5 ",
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T15",
+      "id": "TE15",
       "title": "Übertopf klein",
       "price": 4,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T15.jpg",
+      "image": "./images/image_TE15.jpg",
       "size": "6 x 9 ",
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T18",
+      "id": "TE21",
       "title": "Übertopf mittel",
       "price": 7,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T18.jpg",
+      "image": "./images/image_TE21.jpg",
       "size": "15 x 6 ",
       "categories": "Teller, Schalen und Töpfe"
      },
      {
-      "id": "T19",
+      "id": "TE22",
       "title": "Schale Rillen groß",
       "price": 7,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_T19.jpg",
+      "image": "./images/image_TE22.jpg",
       "size": "15 x 6 ",
       "categories": "Teller, Schalen und Töpfe"
      },
@@ -768,11 +768,11 @@
       "categories": "Tiere"
      },
      {
-      "id": "TI10",
+      "id": "TI20",
       "title": "Pferd",
       "price": 2,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_TI10.jpg",
+      "image": "./images/image_TI20.jpg",
       "size": "6 x 6 ",
       "categories": "Tiere"
      },
