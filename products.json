@@ -1,5 +1,5 @@
 {
-  "categories": ["Neuheiten", "Türkränze", "Geburt & Kinder", "Geburtstag", "Hochzeit", "Trauer", "Allgemeine Sets", "Frühjahr und Ostern", "Kerzenhalter", "Vasen", "Teller, Schalen und Töpfe", "Häuser", "Herzen", "Tiere", "Engel", "Halterungen und Einschieber", "Sonstige Formen"],
+  "categories": ["Neuheiten", "Türkränze", "Geburt, Baby & Kinder", "Geburtstag", "Hochzeit", "Trauer", "Allgemeine Sets", "Frühjahr und Ostern", "Kerzenhalter", "Vasen", "Teller, Schalen und Töpfe", "Häuser", "Herzen", "Tiere", "Engel", "Halterungen und Einschieber", "Sonstige Formen"],
   "defaultCategory": "Neuheiten",
   "products": [
     {
@@ -994,6 +994,22 @@
       "categories": "Allgemeine Sets"
      },
      {
+      "id": 2,
+      "title": "Set Wohnwagen",
+      "price": 21,
+      "description": "Kerzenhalter und Windlicht\nAufdruck inklusive",
+      "image": "./images/image_2.jpg",
+      "categories": "Allgemeine Sets"
+     },
+     {
+      "id": 3,
+      "title": "Set Wohnmobil",
+      "price": 21,
+      "description": "Kerzenhalter und Windlicht\nAufdruck inklusive",
+      "image": "./images/image_3.jpg",
+      "categories": "Allgemeine Sets"
+     },
+     {
       "id": 25,
       "title": "Herz Set",
       "price": 11,
@@ -1138,6 +1154,38 @@
       "categories": "Hochzeit"
      },
      {
+      "id": 1,
+      "title": "Set zur Hochzeit",
+      "price": 8,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nTrockenblumen inklusive",
+      "image": "./images/image_1.jpg",
+      "categories": "Hochzeit"
+     },
+     {
+      "id": 4,
+      "title": "Set zur Hochzeit",
+      "price": 8,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nTrockenblumen inklusive",
+      "image": "./images/image_4.jpg",
+      "categories": "Hochzeit, Häuser"
+     },
+     {
+      "id": 86,
+      "title": "Set zur Hochzeit",
+      "price": 8,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nTrockenblumen inklusive",
+      "image": "./images/image_86.jpg",
+      "categories": "Hochzeit, Häuser"
+     },
+     {
+      "id": 87,
+      "title": "Set zur Hochzeit",
+      "price": 8,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nTrockenblumen inklusive",
+      "image": "./images/image_87.jpg",
+      "categories": "Hochzeit, Häuser"
+     },
+     {
       "id": 58,
       "title": "Glücksset",
       "price": 13,
@@ -1247,7 +1295,7 @@
       "price": 13,
       "description": "„Name“ für Holzbox personalisierbar,\nWähle den Aufdruck der Kerze selbst aus,\nMini Umschlag & Holzbox ist inkl.",
       "image": "./images/image_71.jpg",
-      "categories": "Geburt & Kinder"
+      "categories": "Geburt, Baby & Kinder"
      },
      {
       "id": 72,
@@ -1255,7 +1303,7 @@
       "price": 13,
       "description": "„Name“ für Holzbox personalisierbar,\nWähle den Aufdruck der Kerze selbst aus,\nMini Umschlag & Holzbox ist inkl.",
       "image": "./images/image_72.jpg",
-      "categories": "Geburt & Kinder"
+      "categories": "Geburt, Baby & Kinder"
      },
      {
       "id": 73,
@@ -1271,7 +1319,7 @@
       "price": 17,
       "description": "Dekoration inklusive",
       "image": "./images/image_38.jpg",
-      "categories": "Geburt & Kinder"
+      "categories": "Geburt, Baby & Kinder"
      },
      {
       "id": 30,
@@ -1279,7 +1327,7 @@
       "price": 15,
       "description": "Wähle den Aufdruck der Kerze selbst aus,\nBuchstaben personalisierbar,\nTier wählbar,\nHolzbox ist inklusive",
       "image": "./images/image_30.jpg",
-      "categories": "Geburt & Kinder"
+      "categories": "Geburt, Baby & Kinder"
      },
      {
       "id": 32,
@@ -1287,7 +1335,7 @@
       "price": 10,
       "description": "Dekoration inklusive",
       "image": "./images/image_32.jpg",
-      "categories": "Geburt & Kinder"
+      "categories": "Geburt, Baby & Kinder"
      },
      {
       "id": 77,
@@ -1295,7 +1343,7 @@
       "price": 12,
       "description": "Personalisierbar, Betonfuß inklusive",
       "image": "./images/image_77.jpg",
-      "categories": "Geburt & Kinder"
+      "categories": "Geburt, Baby & Kinder"
      },
      {
       "id": 33,
@@ -1303,7 +1351,7 @@
       "price": 10,
       "description": "Wähle den Aufdruck der Kerze selbst aus,\nHaus kann nach Wunsch ersetzt werden,\nHolzbox ist inklusive",
       "image": "./images/image_33.jpg",
-      "categories": "Geburt & Kinder"
+      "categories": "Geburt, Baby & Kinder"
      },
      {
       "id": 34,
@@ -1311,7 +1359,55 @@
       "price": 10,
       "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nEinhorn kann nach Wunsch ersetzt werden",
       "image": "./images/image_34.jpg",
-      "categories": "Geburt & Kinder"
+      "categories": "Geburt, Baby & Kinder"
+     },
+     {
+      "id": 84,
+      "title": "Zug zur Geburt",
+      "price": 10,
+      "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nEinhorn kann nach Wunsch ersetzt werden",
+      "image": "./images/image_84.jpg",
+      "categories": "Geburt, Baby & Kinder"
+     },
+     {
+      "id": 85,
+      "title": "Zug zum Geburtstag",
+      "price": 10,
+      "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nEinhorn kann nach Wunsch ersetzt werden",
+      "image": "./images/image_85.jpg",
+      "categories": "Geburt, Baby & Kinder, Geburtstag"
+     },
+     {
+      "id": 80,
+      "title": "Geburtstagsteller klein",
+      "price": 10,
+      "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nEinhorn kann nach Wunsch ersetzt werden",
+      "image": "./images/image_81.jpg",
+      "categories": "Geburt, Baby & Kinder, Geburtstag"
+     },
+     {
+      "id": 81,
+      "title": "Geburtstagsteller groß",
+      "price": 10,
+      "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nEinhorn kann nach Wunsch ersetzt werden",
+      "image": "./images/image_82.jpg",
+      "categories": "Geburt, Baby & Kinder, Geburtstag"
+     },
+     {
+      "id": 82,
+      "title": "Set zur Taufe, Firmung, Konfirmation",
+      "price": 10,
+      "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nEinhorn kann nach Wunsch ersetzt werden",
+      "image": "./images/image_82.jpg",
+      "categories": "Geburt, Baby & Kinder"
+     },
+     {
+      "id": 83,
+      "title": "Set zur Taufe, Firmung, Konfirmation",
+      "price": 10,
+      "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nEinhorn kann nach Wunsch ersetzt werden",
+      "image": "./images/image_83.jpg",
+      "categories": "Geburt, Baby & Kinder"
      },
      {
       "id": 74,
