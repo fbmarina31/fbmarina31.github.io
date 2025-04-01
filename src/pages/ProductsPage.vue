@@ -5,7 +5,7 @@
       <q-card
         flat
         bordered
-        style="width: 150px; height: 450px"
+        style="width: 150px; height: 400px"
         v-for="product in filteredProducts"
         :key="product.id"
       >
