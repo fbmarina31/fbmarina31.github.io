@@ -27,7 +27,7 @@
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_KE4.jpg",
       "size": "7,1 x 6,8",
-      "categories": "Kerzenhalter, Neuheiten"
+      "categories": "Kerzenhalter"
      },
      {
       "id": "KE5",
@@ -156,6 +156,15 @@
       "categories": "Kerzenhalter"
      },
      {
+      "id": "KE21",
+      "title": "Kerzenhalter Fisch",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE21.jpg",
+      "size": "12 x 7 ",
+      "categories": "Kerzenhalter"
+     },
+     {
       "id": "VA1",
       "title": "Vase (Rillen)",
       "price": 6,
@@ -234,7 +243,7 @@
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_VA10.jpg",
       "size": "11 x 11",
-      "categories": "Vasen, Neuheiten"
+      "categories": "Vasen"
      },
      {
       "id": "VA11",
@@ -243,7 +252,25 @@
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_VA11.jpg",
       "size": "11 x 16",
-      "categories": "Vasen, Neuheiten"
+      "categories": "Vasen"
+     },
+     {
+      "id": "KE20",
+      "title": "3er Set Mini-Herz-Vasen",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_KE20.jpg",
+      "size": "12 x 7 ",
+      "categories": "Vasen"
+     },
+     {
+      "id": "VA12",
+      "title": "3er Set Mini-Herz-Vasen",
+      "price": 5,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_VA12.jpg",
+      "size": "12 x 7 ",
+      "categories": "Vasen"
      },
      {
       "id": "HAE1",
@@ -323,6 +350,15 @@
       "price": 3,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_HAE9.jpg",
+      "size": 14,
+      "categories": "Halterungen und Einschieber"
+     },
+     {
+      "id": "HAE14",
+      "title": "4er Set Mini-Häuser",
+      "price": 3,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_HAE14.jpg",
       "size": 14,
       "categories": "Halterungen und Einschieber"
      },
@@ -516,6 +552,15 @@
       "categories": "Teller, Schalen und Töpfe"
      },
      {
+      "id": "TE23",
+      "title": "Schale Rillen",
+      "price": 7,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TE23.jpg",
+      "size": "15 x 6 ",
+      "categories": "Teller, Schalen und Töpfe"
+     },
+     {
       "id": "HE1",
       "title": "Herz hängend",
       "price": 5,
@@ -639,7 +684,7 @@
       "description": "in weiß oder grau erhältlich, 1&2 = 3€, 3&4 =2€",
       "image": "./images/image_HA8.jpg",
       "size": "10 bis 3,5",
-      "categories": "Häuser, Neuheiten"
+      "categories": "Häuser"
      },
      {
       "id": "HA9",
@@ -804,6 +849,42 @@
       "categories": "Tiere"
      },
      {
+      "id": "TI23",
+      "title": "Fisch",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI23.jpg",
+      "size": "18 x 15 x 3 ",
+      "categories": "Tiere"
+     },
+     {
+      "id": "V15",
+      "title": "Schmetterling",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_V15.jpg",
+      "size": "18 x 15 x 3 ",
+      "categories": "Tiere, Frühjahr und Ostern"
+     },
+     {
+      "id": "TI22",
+      "title": "Bär",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI22.jpg",
+      "size": "18 x 15 x 3 ",
+      "categories": "Tiere"
+     },
+     {
+      "id": "TI21",
+      "title": "Dinosaurier",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_TI21.jpg",
+      "size": "18 x 15 x 3 ",
+      "categories": "Tiere"
+     },
+     {
       "id": "E1",
       "title": "Engel 2er Set",
       "price": "4\/2",
@@ -880,7 +961,7 @@
       "title": "Bus offen",
       "price": 5,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_V5.jpg",
+      "image": "./images/image_V11.jpg",
       "size": "5  x 10 ",
       "categories": "Sonstige Formen"
      },
@@ -889,7 +970,7 @@
       "title": "Mutter\/Kind",
       "price": 5,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_V6.jpg",
+      "image": "./images/image_V5.jpg",
       "size": "9,3 x 4,6 ",
       "categories": "Sonstige Formen"
      },
@@ -909,7 +990,7 @@
       "description": "in weiß oder grau erhältlich, Preis je Blume",
       "image": "./images/image_V8.jpg",
       "size": "7 x 6 x 3 ",
-      "categories": "Sonstige Formen"
+      "categories": "Sonstige Formen, Frühjahr und Ostern"
      },
      {
       "id": "V9",
@@ -917,6 +998,42 @@
       "price": 8,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_V9.jpg",
+      "size": 20,
+      "categories": "Sonstige Formen"
+     },
+     {
+      "id": "V16",
+      "title": "Fußball",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_V16.jpg",
+      "size": 20,
+      "categories": "Sonstige Formen"
+     },
+     {
+      "id": "V14",
+      "title": "Traktor",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_V14.jpg",
+      "size": 20,
+      "categories": "Sonstige Formen"
+     },
+     {
+      "id": "V12",
+      "title": "Wohnwagen",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_V12.jpg",
+      "size": 20,
+      "categories": "Sonstige Formen, Kerzenhalter"
+     },
+     {
+      "id": "V13",
+      "title": "Wohnmobil",
+      "price": 8,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_V13.jpg",
       "size": 20,
       "categories": "Sonstige Formen"
      },
@@ -999,7 +1116,7 @@
       "price": 21,
       "description": "Kerzenhalter und Windlicht\nAufdruck inklusive",
       "image": "./images/image_2.jpg",
-      "categories": "Allgemeine Sets"
+      "categories": "Allgemeine Sets, Neuheiten"
      },
      {
       "id": 3,
@@ -1007,7 +1124,7 @@
       "price": 21,
       "description": "Kerzenhalter und Windlicht\nAufdruck inklusive",
       "image": "./images/image_3.jpg",
-      "categories": "Allgemeine Sets"
+      "categories": "Allgemeine Sets, Neuheiten"
      },
      {
       "id": 25,
@@ -1367,7 +1484,7 @@
       "price": 10,
       "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nEinhorn kann nach Wunsch ersetzt werden",
       "image": "./images/image_84.jpg",
-      "categories": "Geburt, Baby & Kinder"
+      "categories": "Geburt, Baby & Kinder, Neuheiten"
      },
      {
       "id": 85,
@@ -1382,7 +1499,7 @@
       "title": "Geburtstagsteller klein",
       "price": 10,
       "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nEinhorn kann nach Wunsch ersetzt werden",
-      "image": "./images/image_81.jpg",
+      "image": "./images/image_80.jpg",
       "categories": "Geburt, Baby & Kinder, Geburtstag"
      },
      {
@@ -1390,8 +1507,8 @@
       "title": "Geburtstagsteller groß",
       "price": 10,
       "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nEinhorn kann nach Wunsch ersetzt werden",
-      "image": "./images/image_82.jpg",
-      "categories": "Geburt, Baby & Kinder, Geburtstag"
+      "image": "./images/image_81.jpg",
+      "categories": "Geburt, Baby & Kinder, Geburtstag, Neuheiten"
      },
      {
       "id": 82,
@@ -1573,6 +1690,24 @@
       "categories": "Frühjahr und Ostern"
      },
      {
+      "id": "O12",
+      "title": "Ei mit Blumenmuster",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_O12.jpg",
+      "size": 15.5,
+      "categories": "Frühjahr und Ostern, Neuheiten"
+     },
+     {
+      "id": "O13",
+      "title": "Ei mit Rillen",
+      "price": 4,
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_O13.jpg",
+      "size": 15.5,
+      "categories": "Frühjahr und Ostern, Neuheiten"
+     },
+     {
       "id": 63,
       "title": "Hase & Ü-EI ",
       "price": 6,
@@ -1626,6 +1761,87 @@
       "price": 6,
       "description": "Für Tür oder Fenster",
       "image": "./images/image_95.jpg",
+      "size": "Höhe 290",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": 88,
+      "title": "Frohe Ostern Ständer",
+      "price": 6,
+      "description": "Für Tür oder Fenster",
+      "image": "./images/image_88.jpg",
+      "size": "Höhe 290",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": 97,
+      "title": "Osteranhänger",
+      "price": 6,
+      "description": "Für Tür oder Fenster",
+      "image": "./images/image_97.jpg",
+      "size": "Höhe 290",
+      "categories": "Frühjahr und Ostern, Neuheiten"
+     },
+     {
+      "id": 98,
+      "title": "Mini Hasen Halter",
+      "price": 6,
+      "description": "Für Tür oder Fenster",
+      "image": "./images/image_98.jpg",
+      "size": "Höhe 290",
+      "categories": "Frühjahr und Ostern, Neuheiten"
+     },
+     {
+      "id": 99,
+      "title": "Hase in Schale",
+      "price": 6,
+      "description": "Für Tür oder Fenster",
+      "image": "./images/image_99.jpg",
+      "size": "Höhe 290",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": 101,
+      "title": "Osterset mit Teller",
+      "price": 6,
+      "description": "Für Tür oder Fenster",
+      "image": "./images/image_101.jpg",
+      "size": "Höhe 290",
+      "categories": "Frühjahr und Ostern, Neuheiten"
+     },
+     {
+      "id": 89,
+      "title": "Osterset mit Teller",
+      "price": 6,
+      "description": "Für Tür oder Fenster",
+      "image": "./images/image_89.jpg",
+      "size": "Höhe 290",
+      "categories": "Frühjahr und Ostern, Neuheiten"
+     },
+     {
+      "id": 100,
+      "title": "Hasenständer",
+      "price": 6,
+      "description": "Für Tür oder Fenster",
+      "image": "./images/image_100.jpg",
+      "size": "Höhe 290",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": 102,
+      "title": "Anhänger Hase Schlappohr",
+      "price": 6,
+      "description": "Für Tür oder Fenster",
+      "image": "./images/image_102.jpg",
+      "size": "Höhe 290",
+      "categories": "Frühjahr und Ostern"
+     },
+     {
+      "id": 103,
+      "title": "Anhänger Hase",
+      "price": 6,
+      "description": "Für Tür oder Fenster",
+      "image": "./images/image_103.jpg",
       "size": "Höhe 290",
       "categories": "Frühjahr und Ostern"
      },
