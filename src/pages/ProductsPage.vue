@@ -1,5 +1,6 @@
 <template>
   <q-page padding>
+    <div class="q-pa-md text-weight-light">Interesse an unseren Produkten? <br> Kontaktiere uns gerne über unsere Kontaktoptionen.</div>
     <q-select class="q-pl-md q-pt-sm" borderless v-model="selectedCategory" :options="categories" label="Kategorie" style="width: 335px;" />
     <div class="q-pa-md row items-start q-gutter-md">
       <q-card
@@ -13,9 +14,11 @@
 
         <q-list>
           <q-item-section>
-            <q-item-label class="text-text-subtitle2 text-weight-bold bg-grey-3 q-pa-xs text-center">{{
-              product.title
-            }}</q-item-label>
+            <q-item-label 
+              style="height: 40px; display: flex; align-items: center; justify-content: center;" 
+              class="text-text-subtitle2 text-weight-bold bg-grey-3 q-pa-xs text-center">
+              {{ product.title }}
+            </q-item-label>
             <div class="row q-pa-xs q-mt-sm text-grey-9">
               <div class="q-px-xs text-grey-9">Nr.</div>
               <div class="q-px-xs text-weight-bold text-grey-9">{{ product.id }}</div>
