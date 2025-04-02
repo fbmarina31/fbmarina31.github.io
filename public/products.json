@@ -53,7 +53,7 @@
       "price": 5,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_KE21.jpg",
-      "size": "12 x 7 ",
+      "size": "5,6 x 12,6",
       "categories": "Kerzenhalter"
      },
      {
@@ -176,10 +176,10 @@
      {
       "id": "VA12",
       "title": "Große Vase",
-      "price": 5,
+      "price": 10,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_VA12.jpg",
-      "size": "12 x 7 ",
+      "size": "10,5 x 15 x 7,6",
       "categories": "Vasen"
      },
      {
@@ -266,10 +266,10 @@
      {
       "id": "KE20",
       "title": "3er Set Mini-Herz-Vasen",
-      "price": 5,
+      "price": "2,50/3/3,50",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_KE20.jpg",
-      "size": "12 x 7 ",
+      "size": "5 x 9/4 x 8/4 x 6",
       "categories": "Vasen"
      },
      {
@@ -512,7 +512,7 @@
       "price": 7,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_TE23.jpg",
-      "size": "15 x 6 ",
+      "size": "6,9 x 20,3",
       "categories": "Teller, Schalen und Töpfe"
      },
      {
@@ -689,10 +689,10 @@
      {
       "id": "HA14",
       "title": "4er Set Mini-Häuser",
-      "price": 3,
-      "description": "in weiß oder grau erhältlich",
+      "price": 2,
+      "description": "in weiß oder grau erhältlich, Preis je Haus",
       "image": "./images/image_HA14.jpg",
-      "size": 14,
+      "size": "3 x 5",
       "categories": "Häuser"
      },
      {
@@ -770,10 +770,10 @@
      {
       "id": "TI21",
       "title": "Dinosaurier",
-      "price": 8,
+      "price": 3,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_TI21.jpg",
-      "size": "18 x 15 x 3 ",
+      "size": "7,2 x 10,6",
       "categories": "Tiere"
      },
      {
@@ -806,28 +806,28 @@
      {
       "id": "TI22",
       "title": "Bär",
-      "price": 8,
+      "price": 3,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_TI22.jpg",
-      "size": "18 x 15 x 3 ",
+      "size": "5 x 5 ",
       "categories": "Tiere"
      },
      {
       "id": "TI23",
       "title": "Fisch",
-      "price": 8,
+      "price": 5,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_TI23.jpg",
-      "size": "18 x 15 x 3 ",
+      "size": "5,6 x 12,6",
       "categories": "Tiere"
      },
      {
       "id": "V15",
       "title": "Schmetterling",
-      "price": 8,
+      "price": 5,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_V15.jpg",
-      "size": "18 x 15 x 3 ",
+      "size": "13,4 x 10",
       "categories": "Tiere, Frühjahr und Ostern"
      },
      {
@@ -959,37 +959,37 @@
      {
       "id": "V12",
       "title": "Wohnwagen",
-      "price": 8,
+      "price": 6,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_V12.jpg",
-      "size": 20,
+      "size": "12,5 x 8,7",
       "categories": "Sonstige Formen"
      },
      {
       "id": "V13",
       "title": "Wohnmobil",
-      "price": 8,
+      "price": 5,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_V13.jpg",
-      "size": 20,
+      "size": "18 x 9,3 x 2",
       "categories": "Sonstige Formen"
      },
      {
       "id": "V16",
       "title": "Fußball",
-      "price": 8,
+      "price": 3,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_V16.jpg",
-      "size": 20,
+      "size": "5,1 x 5,6",
       "categories": "Sonstige Formen"
      },
      {
       "id": "V14",
       "title": "Traktor",
-      "price": 8,
+      "price": 5,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_V14.jpg",
-      "size": 20,
+      "size": "11 x 8,6 x 2,4",
       "categories": "Sonstige Formen"
      },
      {
@@ -1580,16 +1580,16 @@
       "price": 4,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_O12.jpg",
-      "size": 15.5,
+      "size": "6,8 x 8 x 4,4",
       "categories": "Frühjahr und Ostern, Neuheiten"
      },
      {
       "id": "O13",
       "title": "Ei mit Rillen",
-      "price": 4,
+      "price": 3,
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_O13.jpg",
-      "size": 15.5,
+      "size": "6 x 7",
       "categories": "Frühjahr und Ostern, Neuheiten"
      },
      {
