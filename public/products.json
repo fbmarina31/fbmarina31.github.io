@@ -1095,32 +1095,32 @@
      {
       "id": 2,
       "title": "Set Wohnwagen",
-      "price": 21,
-      "description": "Kerzenhalter und Windlicht\nAufdruck inklusive",
+      "price": 15,
+      "description": "Inhalt wie abgebildet, Türschild personalisierbar",
       "image": "./images/image_2.jpg",
       "categories": "Allgemeine Sets, Neuheiten"
      },
      {
       "id": 3,
       "title": "Set Wohnmobil",
-      "price": 21,
-      "description": "Kerzenhalter und Windlicht\nAufdruck inklusive",
+      "price": 13,
+      "description": "Inhalt wie abgebildet, Türschild personalisierbar",
       "image": "./images/image_3.jpg",
       "categories": "Allgemeine Sets, Neuheiten"
      },
      {
       "id": 86,
       "title": "Set zur Hochzeit",
-      "price": 8,
-      "description": "Wähle den Aufdruck der Kerze selbst aus,\nTrockenblumen inklusive",
+      "price": 13,
+      "description": "Name und Datum personalisierbar",
       "image": "./images/image_86.jpg",
       "categories": "Hochzeit"
      },
      {
       "id": 87,
       "title": "Set zur Hochzeit",
-      "price": 8,
-      "description": "Wähle den Aufdruck der Kerze selbst aus,\nTrockenblumen inklusive",
+      "price": 16,
+      "description": "Name und Datum personalisierbar",
       "image": "./images/image_87.jpg",
       "categories": "Hochzeit, Häuser"
      },
@@ -1207,8 +1207,8 @@
      {
       "id": 4,
       "title": "Set zur Hochzeit",
-      "price": 8,
-      "description": "Wähle den Aufdruck der Kerze selbst aus,\nTrockenblumen inklusive",
+      "price": 12,
+      "description": "Inhalt wie abgebildet, Name und Datum personalisierbar",
       "image": "./images/image_4.jpg",
       "categories": "Hochzeit, Häuser"
      },
@@ -1263,8 +1263,8 @@
      {
       "id": 1,
       "title": "Set zur Hochzeit",
-      "price": 8,
-      "description": "Wähle den Aufdruck der Kerze selbst aus,\nTrockenblumen inklusive",
+      "price": 14,
+      "description": "Inhalt wie abgebildet, Holzbox personalisierbar",
       "image": "./images/image_1.jpg",
       "categories": "Hochzeit"
      },
@@ -1447,48 +1447,48 @@
      {
       "id": 80,
       "title": "Geburtstagsteller klein",
-      "price": 10,
-      "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nTier nach Wahl",
+      "price": 28,
+      "description": "Motto wählbar, Zahlenstecker 1-9, Kerze mit Aufdruck, Holzplatte personalisierbar",
       "image": "./images/image_80.jpg",
       "categories": "Geburt, Baby & Kinder, Geburtstag"
      },
      {
       "id": 81,
       "title": "Geburtstagsteller groß",
-      "price": 10,
-      "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nTier nach Wahl",
+      "price": 37,
+      "description": "Motto wählbar, Zahlenstecker 1-9, Kerze mit Aufdruck, Holzplatte personalisierbar",
       "image": "./images/image_81.jpg",
       "categories": "Geburt, Baby & Kinder, Geburtstag, Neuheiten"
      },
      {
       "id": 84,
       "title": "Zug zur Geburt",
-      "price": 10,
-      "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nTier nach Wahl",
+      "price": 22,
+      "description": "Inhalt wie abgebildet, Name und Daten personalisierbar",
       "image": "./images/image_84.jpg",
       "categories": "Geburt, Baby & Kinder, Neuheiten"
      },
      {
       "id": 85,
       "title": "Zug zum Geburtstag",
-      "price": 10,
-      "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nTier nach Wahl",
+      "price": 22,
+      "description": "Inhalt wie abgebildet, Name personalisierbar",
       "image": "./images/image_85.jpg",
       "categories": "Geburt, Baby & Kinder, Geburtstag"
      },
      {
       "id": 82,
       "title": "Set zur Taufe, Firmung, Konfirmation",
-      "price": 10,
-      "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nEinhorn kann nach Wunsch ersetzt werden",
+      "price": 14,
+      "description": "Beinhaltet 2 Fische, Fisch personalisierbar, inkl. Kerze",
       "image": "./images/image_82.jpg",
       "categories": "Geburt, Baby & Kinder"
      },
      {
       "id": 83,
       "title": "Set zur Taufe, Firmung, Konfirmation",
-      "price": 10,
-      "description": "Buchstaben personalisierbar,\nWähle den Aufdruck der Holzbox selbst aus,\nEinhorn kann nach Wunsch ersetzt werden",
+      "price": 8,
+      "description": "Fischstecker personalisierbar",
       "image": "./images/image_83.jpg",
       "categories": "Geburt, Baby & Kinder"
      },
@@ -1661,7 +1661,7 @@
       "price": 4,
       "description": "in weiß oder grau erhältlich, Preis je Form",
       "image": "./images/image_O10.jpg",
-      "size": "12,5 x 8, 13,4 x 6,9, 12,2 x 8 cm",
+      "size": "12 x 8, 13 x 7, 12 x 8",
       "categories": "Frühjahr und Ostern"
      },
      {
@@ -1724,64 +1724,57 @@
      {
       "id": 88,
       "title": "Frohe Ostern Ständer",
-      "price": 6,
-      "description": "Für Tür oder Fenster",
+      "price": 5,
+      "description": "Inhalt wie abgebildet",
       "image": "./images/image_88.jpg",
-      "size": "Höhe 290",
       "categories": "Frühjahr und Ostern"
      },
      {
       "id": 97,
       "title": "Osteranhänger",
-      "price": 6,
-      "description": "Für Tür oder Fenster",
+      "price": 4,
+      "description": "Anhänger nach Wahl, personalisierbar",
       "image": "./images/image_97.jpg",
-      "size": "Höhe 290",
       "categories": "Frühjahr und Ostern, Neuheiten"
      },
      {
       "id": 98,
       "title": "Mini Hasen Halter",
-      "price": 6,
-      "description": "Für Tür oder Fenster",
+      "price": 4,
+      "description": "Inhalt wie abgebildet, Preis je Hase",
       "image": "./images/image_98.jpg",
-      "size": "Höhe 290",
       "categories": "Frühjahr und Ostern, Neuheiten"
      },
      {
       "id": 101,
       "title": "Osterset mit Teller",
-      "price": 6,
-      "description": "Für Tür oder Fenster",
+      "price": 15,
+      "description": "Teller, Mini Hase, Blumenei",
       "image": "./images/image_101.jpg",
-      "size": "Höhe 290",
       "categories": "Frühjahr und Ostern, Neuheiten"
      },
      {
       "id": 89,
       "title": "Osterset mit Teller",
-      "price": 6,
-      "description": "Für Tür oder Fenster",
+      "price": 14,
+      "description": "Teller, Mini Vase, Ei und Hasenmädchen",
       "image": "./images/image_89.jpg",
-      "size": "Höhe 290",
       "categories": "Frühjahr und Ostern, Neuheiten"
      },
      {
       "id": 99,
       "title": "Hase in Schale",
-      "price": 6,
-      "description": "Für Tür oder Fenster",
+      "price": 7,
+      "description": "Inhalt wie abgebildet",
       "image": "./images/image_99.jpg",
-      "size": "Höhe 290",
       "categories": "Frühjahr und Ostern"
      },
      {
       "id": 100,
       "title": "Hasenständer",
-      "price": 6,
-      "description": "Für Tür oder Fenster",
+      "price": 15,
+      "description": "Hase und Ei",
       "image": "./images/image_100.jpg",
-      "size": "Höhe 290",
       "categories": "Frühjahr und Ostern"
      },
      {
@@ -1790,22 +1783,20 @@
       "price": 6,
       "description": "Für Tür oder Fenster",
       "image": "./images/image_102.jpg",
-      "size": "Höhe 290",
       "categories": "Frühjahr und Ostern"
      },
      {
       "id": 103,
       "title": "Anhänger Hase",
-      "price": 6,
+      "price": 8,
       "description": "Für Tür oder Fenster",
       "image": "./images/image_103.jpg",
-      "size": "Höhe 290",
       "categories": "Frühjahr und Ostern"
      },
      {
       "id": 68,
       "title": "Anhänger Frohe Ostern",
-      "price": 6,
+      "price": 8,
       "description": "Für Tür oder Fenster",
       "image": "./images/image_95.jpg",
       "size": "Höhe 290",
