@@ -1457,7 +1457,14 @@
       "title": "Geburtstagsteller groß",
       "price": 37,
       "description": "Motto wählbar, Zahlenstecker 1-9, Kerze mit Aufdruck, Holzplatte personalisierbar",
-      "image": "./images/image_81.jpg",
+      "image": "/images/image_81.jpg",
+      "images": [
+        "/images/image_81.jpg",
+        "/images/image_105.jpg",
+        "/images/image_106.jpg",
+        "/images/image_107.jpg",
+        "/images/image_108.jpg"
+      ],
       "categories": "Geburt, Baby & Kinder, Geburtstag, Neuheiten"
      },
      {
