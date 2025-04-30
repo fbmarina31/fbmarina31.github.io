@@ -26,7 +26,7 @@
     :key="index"
     :name="img"
     :img-src="img"
-    @click="openImageDialog(img)"
+    @click="openImageDialog(img, product.images)"
     style="cursor: pointer;"
   />
 </q-carousel>
@@ -35,7 +35,7 @@
   v-else
   :src="product.image"
   style="width: 100%; height: 150px; object-fit: cover; cursor: pointer;"
-  @click="openImageDialog(product.image)"
+  @click="openImageDialog(product.image, product.images)"
 />
 
         <q-list>
@@ -95,13 +95,31 @@
       class="absolute-top-right q-ma-sm z-top"
       @click="dialogVisible = false"
     />
-
-    <!-- Bild in quadratischem Container -->
-    <q-img
-      :src="dialogImage"
-      spinner-color="primary"
-      style="width: 100%; height: 100%; object-fit: cover;"
-      class="rounded-borders"
+<q-carousel
+  v-if="dialogImages.length > 1"
+  v-model="dialogImage"
+  arrows
+  control-color="grey-9"
+  infinite
+  animated
+  swipeable
+  style="width: 100%; height: 100%;"
+  >
+  <q-carousel-slide
+    v-for="(img, index) in dialogImages"
+    :key="index"
+    :name="img"
+    :img-src="img"
+    @click="dialogImage && openImageDialog(dialogImage, dialogImages)"
+    />
+</q-carousel>
+<q-img
+  v-else
+    :src="dialogImage"
+    spinner-color="primary"
+    style="width: 100%; height: 100%; object-fit: cover;"
+    class="rounded-borders"
+    @click="dialogImage && openImageDialog(dialogImage, dialogImages)"
     />
   </q-card>
 </q-dialog>
@@ -147,10 +165,12 @@ onMounted(async () => {
     });
 });
 
-const dialogVisible = ref(false);
-const dialogImage = ref<string | undefined>();
 
-function openImageDialog(imageUrl: string) {
+const dialogImages = ref<string[]>([]);
+const dialogImage = ref<string | undefined>();
+const dialogVisible = ref(false);
+function openImageDialog(imageUrl: string, images?: string[]){
+  dialogImages.value = images && images.length > 1 ? images : [imageUrl];
   dialogImage.value = imageUrl;
   dialogVisible.value = true;
 }
