@@ -34,7 +34,11 @@
       "title": "Kerzenhalter Teller ",
       "price": 6,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_KE17.jpg",
+      "image": "/images/image_KE17.jpg",
+      "images": [
+        "/images/image_KE17.jpg",
+        "/images/image_KE22.jpg"
+      ],
       "size": "14,7 x 2,8 ",
       "categories": "Kerzenhalter"
      },
@@ -106,7 +110,7 @@
       "title": "Kerzenhalter für Windlicht",
       "price": 3,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_KE16.jpg",
+      "image": "/images/image_KE16.jpg",
       "size": "8,2 x 2,4 ",
       "categories": "Kerzenhalter"
      },
