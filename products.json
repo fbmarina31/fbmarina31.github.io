@@ -1,5 +1,5 @@
 {
-  "categories": ["Neuheiten", "Türkränze", "Geburt, Baby & Kinder", "Geburtstag", "Hochzeit", "Trauer", "Allgemeine Sets", "Frühjahr und Ostern", "Kerzenhalter", "Vasen", "Teller, Schalen und Töpfe", "Häuser", "Herzen", "Tiere", "Engel", "Halterungen und Einschieber", "Sonstige Formen"],
+  "categories": ["Neuheiten", "Türkränze", "Geburt, Baby & Kinder", "Geburtstag", "Hochzeit", "Trauer", "Allgemeine Sets", "Frühjahr und Ostern", "Muttertag", "Kerzenhalter", "Vasen", "Teller, Schalen und Töpfe", "Häuser", "Herzen", "Tiere", "Engel", "Halterungen und Einschieber", "Sonstige Formen"],
   "defaultCategory": "Neuheiten",
   "products": [
     {
@@ -2018,6 +2018,78 @@
       "image": "./images/image_T22.jpg",
       "size": 20,
       "categories": "Türkränze"
+     },
+     {
+      "id": 1,
+      "title": "Türkranz Mama",
+      "price": 20,
+      "description": "Türkranz aus Holz",
+      "image": "./images/imageMOM_1.jpg",
+      "categories": "Muttertag"
+     },
+     {
+      "id": 2,
+      "title": "Kerze mit Aufdruck",
+      "price": 4,
+      "description": "Personalisierbar, Holzbox inkl., Preis je Kerze",
+      "image": "./images/imageMOM_6.jpg",
+      "categories": "Muttertag"
+     },
+     {
+      "id": 3,
+      "title": "Herz-Set",
+      "price": 11,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nWähle dein Herz selbst aus, Holzbox ist inklusive",
+      "image": "/images/imageMOM_4.jpg",
+      "images": [
+        "/images/imageMOM_4.jpg",
+        "/images/imageMOM_5.jpg"
+      ],
+      "categories": "Muttertag"
+     },
+     {
+      "id": 4,
+      "title": "Herz-Set",
+      "price": 14,
+      "description": "Wähle den Aufdruck der Kerze selbst aus,\nHolzbox ist inklusive",
+      "image": "./images/imageMOM_3.jpg",
+      "categories": "Muttertag"
+     },
+     {
+      "id": 5,
+      "title": "Holzplatte mit Beschriftung",
+      "price": 6,
+      "description": "Personalisierbar, inkl. Trockenblumen",
+      "image": "/images/imageMOM_8.jpg",
+      "images": [
+        "/images/imageMOM_8.jpg",
+        "/images/imageMOM_9.jpg"
+      ],
+      "categories": "Muttertag"
+     },
+     {
+      "id": 6,
+      "title": "Schriftzug MAMA",
+      "price": 8,
+      "description": "Kerze personalisierbar ",
+      "image": "./images/imageMOM_10.jpg",
+      "categories": "Muttertag"
+     },
+     {
+      "id": 7,
+      "title": "Kerzenteller und Kerze",
+      "price": 12,
+      "description": "Kerze mit Aufdruck",
+      "image": "./images/imageMOM_7.jpg",
+      "categories": "Muttertag"
+     },
+     {
+      "id": 8,
+      "title": "Vase",
+      "price": "7/8",
+      "description": "inkl. Stecker und Trockenblumen",
+      "image": "./images/imageMOM_2.jpg",
+      "categories": "Muttertag"
      }
   ]
 }
