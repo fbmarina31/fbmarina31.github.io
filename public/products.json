@@ -560,7 +560,11 @@
       "title": "Herz hängend",
       "price": 5,
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_HE1.jpg",
+      "image": "/images/image_HE1.jpg",
+      "images": [
+        "/images/image_HE1.jpg",
+        "/images/image_HE10.jpg"
+      ],
       "size": "17 x 10,5 x 2 ",
       "categories": "Herzen"
      },
@@ -1301,15 +1305,11 @@
       "title": "Skandi Häuser Set",
       "price": 12,
       "description": "Wähle den Aufdruck der Kerze selbst aus,\nHolzbox ist inklusive",
-      "image": "./images/image_19.jpg",
-      "categories": "Allgemeine Sets, Geburtstag"
-     },
-     {
-      "id": 20,
-      "title": "Skandi Häuser Set",
-      "price": 12,
-      "description": "Wähle den Aufdruck der Kerze selbst aus,\nHolzbox ist inklusive",
-      "image": "./images/image_20.jpg",
+      "image": "/images/image_19.jpg",
+      "images": [
+        "/images/image_19.jpg",
+        "/images/image_20.jpg"
+      ],
       "categories": "Allgemeine Sets, Geburtstag"
      },
      {
@@ -1389,7 +1389,11 @@
       "title": "Baby Geschenk",
       "price": 13,
       "description": "„Name“ für Holzbox personalisierbar,\nWähle den Aufdruck der Kerze selbst aus,\nMini Umschlag & Holzbox ist inkl.",
-      "image": "./images/image_71.jpg",
+      "image": "/images/image_71.jpg",
+      "images": [
+        "/images/image_71.jpg",
+        "/images/image_72.jpg"
+      ],
       "categories": "Geburt, Baby & Kinder"
      },
      {
@@ -1397,15 +1401,11 @@
       "title": "Baby Geschenk ",
       "price": 13,
       "description": "„Name“ für Holzbox personalisierbar,\nWähle den Aufdruck der Kerze selbst aus,\nMini Umschlag & Holzbox ist inkl.",
-      "image": "./images/image_72.jpg",
-      "categories": "Geburt, Baby & Kinder"
-     },
-     {
-      "id": 73,
-      "title": "Baby Geschenk",
-      "price": 12,
-      "description": "„Name“ für Holzbox personalisierbar, Wähle den Aufdruck der Kerze selbst aus, Holzbox ist inklusive",
-      "image": "./images/image_73.jpg",
+      "image": "/images/image_73.jpg",
+      "images": [
+        "/images/image_73.jpg",
+        "/images/image_109.jpg"
+      ],
       "categories": "Geburt, Baby & Kinder"
      },
      {
