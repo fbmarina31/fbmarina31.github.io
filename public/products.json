@@ -794,6 +794,15 @@
       "categories": "Tiere"
      },
      {
+      "id": "TI24",
+      "title": "Schaukelpferd",
+      "price": "2\/4",
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_T24.jpg",
+      "size": "10.5 x 10",
+      "categories": "Tiere, Neuheiten"
+     },
+     {
       "id": "TI20",
       "title": "Pferd",
       "price": 2,
