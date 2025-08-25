@@ -2320,6 +2320,24 @@
       "image": "./images/image_H25.jpg",
       "categories": "Herbst"
     },
+            {
+      "id": "W21",
+      "title": "Elch stehend",
+      "price": "4",
+      "size": "9 x 10 ",
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_W21.jpg",
+      "categories": "Weihnachten"
+    },
+            {
+      "id": "W24",
+      "title": "Hirsch / Hirschkuh",
+      "price": "Set 7",
+      "size": "12,5 x 17,3",
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_W24.jpg",
+      "categories": "Weihnachten"
+    },
     {
       "id": "W1",
       "title": "Elch sitzend",
@@ -2327,6 +2345,15 @@
       "size": "11,5 x 12 x 2,5 ",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W1.jpg",
+      "categories": "Weihnachten"
+    },
+          {
+      "id": "W3",
+      "title": "Hirsch Kopf",
+      "price": "5",
+      "size": "15,5 x 13,5 x 6",
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_W3.jpg",
       "categories": "Weihnachten"
     },
         {
@@ -2338,22 +2365,13 @@
       "image": "./images/image_W2.jpg",
       "categories": "Weihnachten"
     },
-        {
-      "id": "W3",
-      "title": "Hirsch Kopf",
-      "price": "5",
-      "size": "15,5 x 13,5 x 6",
+                {
+      "id": "W11",
+      "title": "Geschenk",
+      "price": "2",
+      "size": "3,5 x 3,5 x 4 ",
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_W3.jpg",
-      "categories": "Weihnachten"
-    },
-        {
-      "id": "W4",
-      "title": "Stern Anhänger",
-      "price": "3",
-      "size": "12 x 12 x 1",
-      "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_W4.jpg",
+      "image": "./images/image_W11.jpg",
       "categories": "Weihnachten"
     },
         {
@@ -2374,31 +2392,13 @@
       "image": "./images/image_W6.jpg",
       "categories": "Weihnachten"
     },
-        {
-      "id": "W9",
-      "title": "2er Set Wichtel",
-      "price": "Set 5",
-      "size": "7 x 4,5 x 4,5/5,5 x 4 x 4",
-      "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_W9.jpg",
-      "categories": "Weihnachten"
-    },
-        {
-      "id": "W10",
-      "title": "Wichtel",
+             {
+      "id": "W4",
+      "title": "Stern Anhänger",
       "price": "3",
-      "size": "7 x 5 x 5 ",
+      "size": "12 x 12 x 1",
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_W10.jpg",
-      "categories": "Weihnachten"
-    },
-        {
-      "id": "W11",
-      "title": "Geschenk",
-      "price": "2",
-      "size": "3,5 x 3,5 x 4 ",
-      "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_W11.jpg",
+      "image": "./images/image_W4.jpg",
       "categories": "Weihnachten"
     },
         {
@@ -2408,6 +2408,24 @@
       "size": "8 x 12",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W12.jpg",
+      "categories": "Weihnachten"
+    },
+        {
+      "id": "W20",
+      "title": "Baum klein",
+      "price": "3",
+      "size": "9 x 5 ",
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_W20.jpg",
+      "categories": "Weihnachten"
+    },
+          {
+      "id": "W23",
+      "title": "3er Set Tannenbäume",
+      "price": "2/3/4",
+      "size": "11 x 15",
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_W23.jpg",
       "categories": "Weihnachten"
     },
         {
@@ -2473,25 +2491,7 @@
       "image": "./images/image_W19.jpg",
       "categories": "Weihnachten"
     },
-        {
-      "id": "W20",
-      "title": "Baum klein",
-      "price": "3",
-      "size": "9 x 5 ",
-      "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_W20.jpg",
-      "categories": "Weihnachten"
-    },
-        {
-      "id": "W21",
-      "title": "Elch stehend",
-      "price": "4",
-      "size": "9 x 10 ",
-      "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_W21.jpg",
-      "categories": "Weihnachten"
-    },
-        {
+            {
       "id": "W22",
       "title": "Wichtel",
       "price": "4",
@@ -2500,22 +2500,22 @@
       "image": "./images/image_W22.jpg",
       "categories": "Weihnachten"
     },
-        {
-      "id": "W23",
-      "title": "3er Set Tannenbäume",
-      "price": "2/3/4",
-      "size": "11 x 15",
+      {
+      "id": "W9",
+      "title": "2er Set Wichtel",
+      "price": "Set 5",
+      "size": "7 x 4,5 x 4,5/5,5 x 4 x 4",
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_W23.jpg",
+      "image": "./images/image_W9.jpg",
       "categories": "Weihnachten"
     },
         {
-      "id": "W24",
-      "title": "Hirsch / Hirschkuh",
-      "price": "Set 7",
-      "size": "12,5 x 17,3",
+      "id": "W10",
+      "title": "Wichtel",
+      "price": "3",
+      "size": "7 x 5 x 5 ",
       "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_W24.jpg",
+      "image": "./images/image_W10.jpg",
       "categories": "Weihnachten"
     },
         {
@@ -2567,14 +2567,6 @@
       "categories": "Weihnachten"
     },
         {
-      "id": "W31",
-      "title": "Weihnachtskerze",
-      "price": "4",
-      "description": "Wähle den Aufdruck der Kerze selbst aus, Holzbox inklusive",
-      "image": "./images/image_W31.jpg",
-      "categories": "Weihnachten"
-    },
-        {
       "id": "W32",
       "title": "Krippe groß mit Teller lang",
       "price": "24/mit Lichterkette 27",
@@ -2596,6 +2588,14 @@
       "price": "10",
       "description": "Inhalt wie abgebildet",
       "image": "./images/image_W34.jpg",
+      "categories": "Weihnachten"
+    },
+        {
+      "id": "W31",
+      "title": "Weihnachtskerze",
+      "price": "4",
+      "description": "Wähle den Aufdruck der Kerze selbst aus, Holzbox inklusive",
+      "image": "./images/image_W31.jpg",
       "categories": "Weihnachten"
     },
      {
