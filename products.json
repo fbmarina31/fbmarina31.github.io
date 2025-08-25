@@ -10,7 +10,8 @@
     "Frühjahr und Ostern",
     "Muttertag",
     "Herbst",
-    "Weihnachten & Advent",
+    "Weihnachten",
+    "Advent",
     "Kerzenhalter",
     "Vasen",
     "Teller, Schalen und Töpfe",
@@ -2326,7 +2327,7 @@
       "size": "11,5 x 12 x 2,5 ",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W1.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W2",
@@ -2335,7 +2336,7 @@
       "size": "3 x 3 ",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W2.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W3",
@@ -2344,7 +2345,7 @@
       "size": "15,5 x 13,5 x 6",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W3.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W4",
@@ -2353,7 +2354,7 @@
       "size": "12 x 12 x 1",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W4.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W5",
@@ -2362,7 +2363,7 @@
       "size": "13 / 8 / 6 ",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W5.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W6",
@@ -2371,25 +2372,7 @@
       "size": "8 / 10 / 20",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W6.jpg",
-      "categories": "Weihnachten & Advent"
-    },
-        {
-      "id": "W7",
-      "title": "Kerzenhalter Halbringe",
-      "price": "10",
-      "size": "20",
-      "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_W7.jpg",
-      "categories": "Weihnachten & Advent"
-    },
-        {
-      "id": "W8",
-      "title": "Adventskranz",
-      "price": "12",
-      "size": "25 x 3 x 14,5",
-      "description": "in weiß oder grau erhältlich",
-      "image": "./images/image_W8.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W9",
@@ -2398,7 +2381,7 @@
       "size": "7 x 4,5 x 4,5/5,5 x 4 x 4",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W9.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W10",
@@ -2407,7 +2390,7 @@
       "size": "7 x 5 x 5 ",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W10.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W11",
@@ -2416,7 +2399,7 @@
       "size": "3,5 x 3,5 x 4 ",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W11.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W12",
@@ -2425,7 +2408,7 @@
       "size": "8 x 12",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W12.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W13",
@@ -2434,7 +2417,7 @@
       "size": "32,5 x 12,5 ",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W13.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W14",
@@ -2443,7 +2426,7 @@
       "size": "8-16",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W14.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W15",
@@ -2452,7 +2435,7 @@
       "size": "9",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W15.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W16",
@@ -2461,7 +2444,7 @@
       "size": "15,5",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W16.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W17",
@@ -2470,7 +2453,7 @@
       "size": "14,5 x 10 x 3",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W17.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W18",
@@ -2479,7 +2462,7 @@
       "size": "12 x 20 ",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W18.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W19",
@@ -2488,7 +2471,7 @@
       "size": "4,9 x 9,2 / 7 x 11,7",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W19.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W20",
@@ -2497,7 +2480,7 @@
       "size": "9 x 5 ",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W20.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W21",
@@ -2506,7 +2489,7 @@
       "size": "9 x 10 ",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W21.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W22",
@@ -2515,7 +2498,7 @@
       "size": "4 x 10",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W22.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W23",
@@ -2524,7 +2507,7 @@
       "size": "11 x 15",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W23.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
     },
         {
       "id": "W24",
@@ -2533,7 +2516,167 @@
       "size": "12,5 x 17,3",
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_W24.jpg",
-      "categories": "Weihnachten & Advent"
+      "categories": "Weihnachten"
+    },
+        {
+      "id": "W25",
+      "title": "Set Weihnachten",
+      "price": "14",
+      "description": "Wähle den Aufdruck der Kerze selbst aus",
+      "image": "./images/image_W25.jpg",
+      "categories": "Weihnachten"
+    },
+        {
+      "id": "W26",
+      "title": "Tannenbaum Hänger",
+      "price": "4",
+      "description": "Schokoriegel & Dekoration inklusive",
+      "image": "./images/image_W26.jpg",
+      "categories": "Weihnachten"
+    },
+        {
+      "id": "W27",
+      "title": "Set Weihnachten Baum",
+      "price": "12",
+      "description": "Wähle den Aufdruck der Kerze selbst aus",
+      "image": "./images/image_W27.jpg",
+      "categories": "Weihnachten"
+    },
+        {
+      "id": "W28",
+      "title": "Set Weihnachten Stern",
+      "price": "12",
+      "description": "Wähle den Aufdruck der Kerze selbst aus",
+      "image": "./images/image_W28.jpg",
+      "categories": "Weihnachten"
+    },
+        {
+      "id": "W29",
+      "title": "Krippe groß",
+      "price": "16/mit Lichterkette 19",
+      "description": "Mit oder ohne Lichterdach möglich",
+      "image": "./images/image_W29.jpg",
+      "categories": "Weihnachten"
+    },
+        {
+      "id": "W30",
+      "title": "Krippe klein",
+      "price": "10/mit Lichterkette 13",
+      "description": "Mit oder ohne Lichterdach möglich",
+      "image": "./images/image_W30.jpg",
+      "categories": "Weihnachten"
+    },
+        {
+      "id": "W31",
+      "title": "Weihnachtskerze",
+      "price": "4",
+      "description": "Wähle den Aufdruck der Kerze selbst aus, Holzbox inklusive",
+      "image": "./images/image_W31.jpg",
+      "categories": "Weihnachten"
+    },
+        {
+      "id": "W32",
+      "title": "Krippe groß mit Teller lang",
+      "price": "24/mit Lichterkette 27",
+      "description": "Mit oder ohne Lichterbogen möglich",
+      "image": "./images/image_W32.jpg",
+      "categories": "Weihnachten"
+    },
+        {
+      "id": "W33",
+      "title": "Krippe klein mit Teller rund",
+      "price": "15",
+      "description": "Teller mit Schriftzug und Kerze sowie Krippenfiguren und Baum",
+      "image": "./images/image_W33.jpg",
+      "categories": "Weihnachten"
+    },
+        {
+      "id": "W34",
+      "title": "Set Wichtelwald",
+      "price": "10",
+      "description": "Inhalt wie abgebildet",
+      "image": "./images/image_W34.jpg",
+      "categories": "Weihnachten"
+    },
+     {
+      "id": "W7",
+      "title": "Kerzenhalter Halbringe",
+      "price": "10",
+      "size": "20",
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_W7.jpg",
+      "categories": "Advent"
+    },
+        {
+      "id": "W8",
+      "title": "Adventskranz",
+      "price": "12",
+      "size": "25 x 3 x 14,5",
+      "description": "in weiß oder grau erhältlich",
+      "image": "./images/image_W8.jpg",
+      "categories": "Advent"
+    },
+        {
+      "id": "W35",
+      "title": "Adventskerzen",
+      "price": "30",
+      "description": "Inhalt wie abgebildet, jedoch ohne Holzteller und Lichterkette",
+      "image": "./images/image_W35.jpg",
+      "categories": "Advent"
+    }
+    ,
+        {
+      "id": "W36",
+      "title": "Adventskranz",
+      "price": "21",
+      "description": "Inhalt wie abgebildet",
+      "image": "./images/image_W36.jpg",
+      "categories": "Advent"
+    }
+    ,
+        {
+      "id": "W37",
+      "title": "Adventsteller",
+      "price": "37",
+      "description": "Inhalt wie abgebildet",
+      "image": "./images/image_W37.jpg",
+      "categories": "Advent"
+    }
+    ,
+        {
+      "id": "W38",
+      "title": "Adventskranz",
+      "price": "26",
+      "description": "Inhalt wie abgebildet",
+      "image": "./images/image_W38.jpg",
+      "categories": "Advent"
+    }
+    ,
+        {
+      "id": "W39",
+      "title": "Adventskerzen",
+      "price": "25",
+      "description": "Inhalt wie abgebildet, jedoch ohne Holzteller",
+      "image": "./images/image_W39.jpg",
+      "categories": "Advent"
+    }
+    ,
+        {
+      "id": "W40",
+      "title": "Adventsteller",
+      "price": "35",
+      "description": "Inhalt wie abgebildet",
+      "image": "./images/image_W40.jpg",
+      "categories": "Advent"
+    }
+    ,
+        {
+      "id": "W41",
+      "title": "Adventsteller",
+      "price": "29",
+      "description": "Inhalt wie abgebildet",
+      "image": "./images/image_W41.jpg",
+      "categories": "Advent"
     }
   ]
 }
