@@ -2591,6 +2591,38 @@
       "image": "./images/image_W33.jpg",
       "categories": "Weihnachten"
     },
+    {
+      "id": "W42",
+      "title": "Krippe mit Holz",
+      "price": "19",
+      "description": "Inhalt wie abgebildet, inkl. Lichterkette",
+      "image": "./images/image_W42.jpg",
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W62",
+      "title": "Weihnachtskrippe in der Holzkiste",
+      "price": "24",
+      "description": "Beleuchtet, mit den Heiligen Drei Königen",
+      "image": "./images/image_W62.jpg",
+      "categories": "Weihnachten"
+    },
+    {
+      "id": "W48",
+      "title": "Teelichthalter Krippe",
+      "price": "12",
+      "description": "Inhalt wie abgebildet, inkl. Teelichter",
+      "image": "./images/image_W48.jpg",
+      "categories": "Weihnachten"
+    },
+    {
+      "id": "W56",
+      "title": "Weihnachtskrippe Adventskalender",
+      "price": "10",
+      "description": "24 Türchen, beleuchtet",
+      "image": "./images/image_W56.jpg",
+      "categories": "Advent, Neuheiten"
+    },
         {
       "id": "W34",
       "title": "Set Wichtelwald",
@@ -2688,14 +2720,6 @@
       "categories": "Advent"
     },
     {
-      "id": "W42",
-      "title": "Krippe mit Holz",
-      "price": "19",
-      "description": "Inhalt wie abgebildet, inkl. Lichterkette",
-      "image": "./images/image_W42.jpg",
-      "categories": "Weihnachten, Neuheiten"
-    },
-    {
       "id": "W43",
       "title": "Hirsch-Kranz",
       "price": "8",
@@ -2729,14 +2753,6 @@
       "price": "12",
       "description": "Inhalt wie abgebildet, inkl. Teelichter",
       "image": "./images/image_W47.jpg",
-      "categories": "Weihnachten"
-    },
-    {
-      "id": "W48",
-      "title": "Teelichthalter Krippe",
-      "price": "12",
-      "description": "Inhalt wie abgebildet, inkl. Teelichter",
-      "image": "./images/image_W48.jpg",
       "categories": "Weihnachten"
     },
     {
@@ -2794,14 +2810,6 @@
       "description": "inkl. Licht",
       "image": "./images/image_W55.jpg",
       "categories": "Engel, Weihnachten, Neuheiten"
-    },
-    {
-      "id": "W56",
-      "title": "Weihnachtskrippe Adventskalender",
-      "price": "10",
-      "description": "24 Türchen, beleuchtet",
-      "image": "./images/image_W56.jpg",
-      "categories": "Advent, Neuheiten"
     },
     {
       "id": "W57",
@@ -3033,14 +3041,6 @@
       "price": "30",
       "description": "Großes Set mit Wichtelhaus, Bäumen, Bank, Briefkasten und Zubehör, Inhalt wie abgebildet",
       "image": "./images/image_W61.jpg",
-      "categories": "Weihnachten"
-    },
-    {
-      "id": "W62",
-      "title": "Weihnachtskrippe in der Holzkiste",
-      "price": "24",
-      "description": "Beleuchtet, mit den Heiligen Drei Königen",
-      "image": "./images/image_W62.jpg",
       "categories": "Weihnachten"
     },
     {
