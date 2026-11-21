@@ -2838,7 +2838,7 @@
       "description": "Band personalisierbar",
       "image": "./images/image_T23.jpg",
       "size": 30,
-      "categories": "Türkränze, Neuheiten"
+      "categories": "Türkränze"
     },
     {
       "id": "T30",
@@ -2847,7 +2847,7 @@
       "description": "Band personalisierbar",
       "image": "./images/image_T30.jpg",
       "size": 25,
-      "categories": "Türkränze, Neuheiten"
+      "categories": "Türkränze"
     },
     {
       "id": "T25",
@@ -2856,7 +2856,7 @@
       "description": "Holzplatte personalisierbar",
       "image": "./images/image_T25.jpg",
       "size": 30,
-      "categories": "Türkränze, Neuheiten"
+      "categories": "Türkränze"
     },
     {
       "id": "T26",
@@ -2865,7 +2865,7 @@
       "description": "Holzplatte personalisierbar",
       "image": "./images/image_T26.jpg",
       "size": 30,
-      "categories": "Türkränze, Neuheiten"
+      "categories": "Türkränze"
     },
     {
       "id": "T27",
@@ -2874,7 +2874,7 @@
       "description": "Band personalisierbar",
       "image": "./images/image_T27.jpg",
       "size": 25,
-      "categories": "Türkränze, Häuser, Neuheiten"
+      "categories": "Türkränze, Häuser"
     },
     {
       "id": "T28",
@@ -2883,7 +2883,7 @@
       "description": "Band personalisierbar",
       "image": "./images/image_T28.jpg",
       "size": 30,
-      "categories": "Türkränze, Neuheiten"
+      "categories": "Türkränze"
     },
     {
       "id": "T29",
@@ -2892,7 +2892,7 @@
       "description": "Band personalisierbar",
       "image": "./images/image_T29.jpg",
       "size": 25,
-      "categories": "Türkränze, Neuheiten"
+      "categories": "Türkränze"
     },
     {
       "id": 110,
@@ -2905,7 +2905,7 @@
         "./images/image_110_b.jpg",
         "./images/image_110_c.jpg"
       ],
-      "categories": "Geburt, Baby & Kinder, Neuheiten"
+      "categories": "Geburt, Baby & Kinder"
     },
     {
       "id": 111,
@@ -2913,7 +2913,7 @@
       "price": 10,
       "description": "ohne Eier",
       "image": "./images/image_111.jpg",
-      "categories": "Frühjahr und Ostern, Neuheiten"
+      "categories": "Frühjahr und Ostern"
     },
     {
       "id": 112,
@@ -2921,7 +2921,7 @@
       "price": 5,
       "description": "Motiv wählbar: Hochzeit, Geburtstag, Baby, Glückwunsch",
       "image": "./images/image_112.jpg",
-      "categories": "Halterungen und Einschieber, Allgemeine Sets, Neuheiten"
+      "categories": "Halterungen und Einschieber, Allgemeine Sets"
     },
     {
       "id": 113,
@@ -2929,7 +2929,7 @@
       "price": 10,
       "description": "Vase inkl. Trockenblumen",
       "image": "./images/image_113.jpg",
-      "categories": "Vasen, Neuheiten"
+      "categories": "Vasen"
     },
     {
       "id": 114,
@@ -2937,7 +2937,7 @@
       "price": 14,
       "description": "Holzboard mit Wochenübersicht",
       "image": "./images/image_114.jpg",
-      "categories": "Geburt, Baby & Kinder, Neuheiten"
+      "categories": "Geburt, Baby & Kinder"
     },
     {
       "id": 115,
@@ -2945,7 +2945,7 @@
       "price": 5,
       "description": "personalisierbar",
       "image": "./images/image_115.jpg",
-      "categories": "Allgemeine Sets, Neuheiten"
+      "categories": "Allgemeine Sets"
     },
     {
       "id": 116,
@@ -2953,7 +2953,7 @@
       "price": 5,
       "description": "Aufdruck personalisierbar",
       "image": "./images/image_116.jpg",
-      "categories": "Allgemeine Sets, Neuheiten"
+      "categories": "Allgemeine Sets"
     },
     {
       "id": 117,
@@ -2961,7 +2961,7 @@
       "price": 10,
       "description": "Kerze und Deko-Tablett",
       "image": "./images/image_117.jpg",
-      "categories": "Teller, Schalen und Töpfe, Allgemeine Sets, Neuheiten"
+      "categories": "Teller, Schalen und Töpfe, Allgemeine Sets"
     },
     {
       "id": 118,
@@ -2969,7 +2969,7 @@
       "price": 4,
       "description": "Spruch wählbar, inkl. Licht",
       "image": "./images/image_118.jpg",
-      "categories": "Allgemeine Sets, Neuheiten"
+      "categories": "Allgemeine Sets"
     },
     {
       "id": 121,
@@ -2981,7 +2981,7 @@
         "./images/image_121.jpg",
         "./images/image_121_b.jpg"
       ],
-      "categories": "Allgemeine Sets, Neuheiten"
+      "categories": "Allgemeine Sets"
     },
     {
       "id": 122,
@@ -2989,7 +2989,7 @@
       "price": "2,50",
       "description": "Motiv wählbar",
       "image": "./images/image_122.jpg",
-      "categories": "Allgemeine Sets, Neuheiten"
+      "categories": "Allgemeine Sets"
     },
     {
       "id": 123,
@@ -2997,7 +2997,7 @@
       "price": 13,
       "description": "Namen personalisierbar",
       "image": "./images/image_123.jpg",
-      "categories": "Häuser, Allgemeine Sets, Neuheiten"
+      "categories": "Häuser, Allgemeine Sets"
     },
     {
       "id": 124,
@@ -3005,7 +3005,7 @@
       "price": 13,
       "description": "Namen und Datum personalisierbar",
       "image": "./images/image_124.jpg",
-      "categories": "Häuser, Hochzeit, Neuheiten"
+      "categories": "Häuser, Hochzeit"
     },
     {
       "id": 125,
@@ -3017,7 +3017,7 @@
         "./images/image_125.jpg",
         "./images/image_125_b.jpg"
       ],
-      "categories": "Allgemeine Sets, Neuheiten"
+      "categories": "Allgemeine Sets"
     },
     {
       "id": 127,
@@ -3025,7 +3025,7 @@
       "price": 6,
       "description": "Inhalt wie abgebildet",
       "image": "./images/image_127.jpg",
-      "categories": "Tiere, Neuheiten"
+      "categories": "Tiere"
     },
     {
       "id": "W61",
@@ -3050,7 +3050,7 @@
       "description": "Trockenblumenkranz, Band personalisierbar",
       "image": "./images/image_T31.jpg",
       "size": 30,
-      "categories": "Türkränze, Neuheiten"
+      "categories": "Türkränze"
     },
     {
       "id": 128,
@@ -3064,7 +3064,7 @@
         "./images/image_128_c.jpg",
         "./images/image_128_d.jpg"
       ],
-      "categories": "Geburt, Baby & Kinder, Neuheiten"
+      "categories": "Geburt, Baby & Kinder"
     },
     {
       "id": "O20",
@@ -3072,7 +3072,7 @@
       "price": 8,
       "description": "Holzfigur mit Schriftzug, auf Sockel",
       "image": "./images/image_O20.jpg",
-      "categories": "Frühjahr und Ostern, Neuheiten"
+      "categories": "Frühjahr und Ostern"
     },
     {
       "id": "O21",
@@ -3080,7 +3080,7 @@
       "price": "7/10",
       "description": "2 Größen, inkl. Teelichter",
       "image": "./images/image_O21.jpg",
-      "categories": "Frühjahr und Ostern, Neuheiten"
+      "categories": "Frühjahr und Ostern"
     },
     {
       "id": "O22",
@@ -3088,7 +3088,7 @@
       "price": 8,
       "description": "auf Holzsockel",
       "image": "./images/image_O22.jpg",
-      "categories": "Frühjahr und Ostern, Neuheiten"
+      "categories": "Frühjahr und Ostern"
     },
     {
       "id": "O23",
@@ -3096,7 +3096,7 @@
       "price": 12,
       "description": "Inhalt wie abgebildet",
       "image": "./images/image_O23.jpg",
-      "categories": "Frühjahr und Ostern, Neuheiten"
+      "categories": "Frühjahr und Ostern"
     },
     {
       "id": "O24",
@@ -3104,7 +3104,7 @@
       "price": 4,
       "description": "Dekoration und Ei inklusive, Variante wählbar",
       "image": "./images/image_O24.jpg",
-      "categories": "Teller, Schalen und Töpfe, Frühjahr und Ostern, Neuheiten"
+      "categories": "Teller, Schalen und Töpfe, Frühjahr und Ostern"
     },
     {
       "id": "O25",
@@ -3112,7 +3112,7 @@
       "price": 12,
       "description": "Dekoration inklusive",
       "image": "./images/image_O25.jpg",
-      "categories": "Teller, Schalen und Töpfe, Frühjahr und Ostern, Neuheiten"
+      "categories": "Teller, Schalen und Töpfe, Frühjahr und Ostern"
     }
   ]
 }
