@@ -2796,20 +2796,20 @@
       "categories": "Weihnachten, Neuheiten"
     },
     {
-      "id": "W54",
-      "title": "Dreieck-Rahmen Rentiere",
-      "price": "8",
-      "description": "auf Holzsockel",
-      "image": "./images/image_W54.jpg",
-      "categories": "Weihnachten, Neuheiten"
-    },
-    {
       "id": "W55",
       "title": "Mini-Holz-Engel",
       "price": "4",
       "description": "inkl. Licht",
       "image": "./images/image_W55.jpg",
       "categories": "Engel, Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W54",
+      "title": "Dreieck-Rahmen Rentiere",
+      "price": "8",
+      "description": "auf Holzsockel",
+      "image": "./images/image_W54.jpg",
+      "categories": "Weihnachten, Neuheiten"
     },
     {
       "id": "W57",
