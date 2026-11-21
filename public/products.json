@@ -2701,7 +2701,7 @@
       "price": "8",
       "description": "Holzkranz mit Hirschmotiv",
       "image": "./images/image_W43.jpg",
-      "categories": "Weihnachten, Neuheiten"
+      "categories": "Weihnachten"
     },
     {
       "id": "W44",
@@ -2709,7 +2709,7 @@
       "price": "7",
       "description": "Spruch wählbar",
       "image": "./images/image_W44.jpg",
-      "categories": "Weihnachten, Neuheiten"
+      "categories": "Weihnachten"
     },
     {
       "id": "W45",
@@ -2721,7 +2721,7 @@
         "./images/image_W45.jpg",
         "./images/image_W46.jpg"
       ],
-      "categories": "Weihnachten, Neuheiten"
+      "categories": "Weihnachten"
     },
     {
       "id": "W47",
@@ -2729,7 +2729,7 @@
       "price": "12",
       "description": "Inhalt wie abgebildet, inkl. Teelichter",
       "image": "./images/image_W47.jpg",
-      "categories": "Weihnachten, Neuheiten"
+      "categories": "Weihnachten"
     },
     {
       "id": "W48",
@@ -2737,7 +2737,7 @@
       "price": "12",
       "description": "Inhalt wie abgebildet, inkl. Teelichter",
       "image": "./images/image_W48.jpg",
-      "categories": "Weihnachten, Neuheiten"
+      "categories": "Weihnachten"
     },
     {
       "id": "W49",
@@ -2829,7 +2829,7 @@
       "price": "8",
       "description": "Frohe Weihnachten",
       "image": "./images/image_W59.jpg",
-      "categories": "Weihnachten, Neuheiten"
+      "categories": "Weihnachten"
     },
     {
       "id": "T23",
@@ -3033,7 +3033,7 @@
       "price": "30",
       "description": "Großes Set mit Wichtelhaus, Bäumen, Bank, Briefkasten und Zubehör, Inhalt wie abgebildet",
       "image": "./images/image_W61.jpg",
-      "categories": "Weihnachten, Neuheiten"
+      "categories": "Weihnachten"
     },
     {
       "id": "W62",
@@ -3041,7 +3041,7 @@
       "price": "24",
       "description": "Beleuchtet, mit den Heiligen Drei Königen",
       "image": "./images/image_W62.jpg",
-      "categories": "Weihnachten, Neuheiten"
+      "categories": "Weihnachten"
     },
     {
       "id": "T31",
