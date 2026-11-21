@@ -816,7 +816,7 @@
       "description": "in weiß oder grau erhältlich",
       "image": "./images/image_T24.jpg",
       "size": "10.5 x 10",
-      "categories": "Tiere, Neuheiten"
+      "categories": "Tiere"
     },
     {
       "id": "TI20",
@@ -1127,19 +1127,28 @@
     },
     {
       "id": 2,
-      "title": "Set Wohnwagen",
+      "title": "Set Wohnmobil",
       "price": 15,
       "description": "Inhalt wie abgebildet, Türschild personalisierbar",
       "image": "./images/image_2.jpg",
-      "categories": "Allgemeine Sets, Neuheiten"
+      "images": [
+        "./images/image_2.jpg",
+        "./images/image_119.jpg",
+        "./images/image_120.jpg"
+      ],
+      "categories": "Allgemeine Sets"
     },
     {
       "id": 3,
-      "title": "Set Wohnmobil",
+      "title": "Set Wohnwagen",
       "price": 13,
       "description": "Inhalt wie abgebildet, Türschild personalisierbar",
       "image": "./images/image_3.jpg",
-      "categories": "Allgemeine Sets, Neuheiten"
+      "images": [
+        "./images/image_3.jpg",
+        "./images/image_126.jpg"
+      ],
+      "categories": "Allgemeine Sets"
     },
     {
       "id": 86,
@@ -1488,7 +1497,7 @@
         "/images/image_107.jpg",
         "/images/image_108.jpg"
       ],
-      "categories": "Geburt, Baby & Kinder, Geburtstag, Neuheiten"
+      "categories": "Geburt, Baby & Kinder, Geburtstag"
     },
     {
       "id": 84,
@@ -1496,7 +1505,7 @@
       "price": 22,
       "description": "Inhalt wie abgebildet, Name und Daten personalisierbar",
       "image": "./images/image_84.jpg",
-      "categories": "Geburt, Baby & Kinder, Neuheiten"
+      "categories": "Geburt, Baby & Kinder"
     },
     {
       "id": 85,
@@ -1528,7 +1537,7 @@
       "price": 7,
       "description": "Engel und Holzbox personalisierbar",
       "image": "./images/image_104.jpg",
-      "categories": "Geburt, Baby & Kinder, Neuheiten"
+      "categories": "Geburt, Baby & Kinder"
     },
     {
       "id": 74,
@@ -2677,6 +2686,433 @@
       "description": "Inhalt wie abgebildet",
       "image": "./images/image_W41.jpg",
       "categories": "Advent"
+    },
+    {
+      "id": "W42",
+      "title": "Krippe mit Holz",
+      "price": "19",
+      "description": "Inhalt wie abgebildet, inkl. Lichterkette",
+      "image": "./images/image_W42.jpg",
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W43",
+      "title": "Hirsch-Kranz",
+      "price": "8",
+      "description": "Holzkranz mit Hirschmotiv",
+      "image": "./images/image_W43.jpg",
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W44",
+      "title": "Teelichtglas mit Spruch",
+      "price": "7",
+      "description": "Spruch wählbar",
+      "image": "./images/image_W44.jpg",
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W45",
+      "title": "Hirsch-Silhouette stehend",
+      "price": "10",
+      "description": "Holzfigur, Farbe wählbar",
+      "image": "./images/image_W45.jpg",
+      "images": [
+        "./images/image_W45.jpg",
+        "./images/image_W46.jpg"
+      ],
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W47",
+      "title": "Teelichthalter Rentiere",
+      "price": "12",
+      "description": "Inhalt wie abgebildet, inkl. Teelichter",
+      "image": "./images/image_W47.jpg",
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W48",
+      "title": "Teelichthalter Krippe",
+      "price": "12",
+      "description": "Inhalt wie abgebildet, inkl. Teelichter",
+      "image": "./images/image_W48.jpg",
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W49",
+      "title": "Weihnachts-Spielset",
+      "price": "4",
+      "description": "Versteckspiel und Tic Tac Toe aus Holz",
+      "image": "./images/image_W49.jpg",
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W50",
+      "title": "Holz-Häuser",
+      "price": "4/7",
+      "description": "klein oder groß",
+      "image": "./images/image_W50.jpg",
+      "categories": "Häuser, Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W51",
+      "title": "Geometrische Hirschköpfe",
+      "price": "5",
+      "description": "auf Holzsockel",
+      "image": "./images/image_W51.jpg",
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W52",
+      "title": "Weihnachtsbäume auf Holzsockel",
+      "price": "5",
+      "description": "Holz oder schwarz",
+      "image": "./images/image_W52.jpg",
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W53",
+      "title": "Mini-Holz-Wichtel",
+      "price": "4",
+      "description": "inkl. Licht",
+      "image": "./images/image_W53.jpg",
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W54",
+      "title": "Dreieck-Rahmen Rentiere",
+      "price": "8",
+      "description": "auf Holzsockel",
+      "image": "./images/image_W54.jpg",
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W55",
+      "title": "Mini-Holz-Engel",
+      "price": "4",
+      "description": "inkl. Licht",
+      "image": "./images/image_W55.jpg",
+      "categories": "Engel, Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W56",
+      "title": "Weihnachtskrippe Adventskalender",
+      "price": "10",
+      "description": "24 Türchen, beleuchtet",
+      "image": "./images/image_W56.jpg",
+      "categories": "Advent, Neuheiten"
+    },
+    {
+      "id": "W57",
+      "title": "Mini-Schale Weihnachtsdeko",
+      "price": "4",
+      "description": "Dekoration inklusive",
+      "image": "./images/image_W57.jpg",
+      "categories": "Teller, Schalen und Töpfe, Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W58",
+      "title": "Bastelset zum Bemalen",
+      "price": "5",
+      "description": "Anhänger, Motiv wählbar, inkl. Farben und Pinsel",
+      "image": "./images/image_W58.jpg",
+      "images": [
+        "./images/image_W58.jpg",
+        "./images/image_W58_b.jpg"
+      ],
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W59",
+      "title": "Türkranz mit Bäumen",
+      "price": "8",
+      "description": "Frohe Weihnachten",
+      "image": "./images/image_W59.jpg",
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "T23",
+      "title": "Türkranz",
+      "price": "20",
+      "description": "Band personalisierbar",
+      "image": "./images/image_T23.jpg",
+      "size": 30,
+      "categories": "Türkränze, Neuheiten"
+    },
+    {
+      "id": "T30",
+      "title": "Türkranz",
+      "price": "17",
+      "description": "Band personalisierbar",
+      "image": "./images/image_T30.jpg",
+      "size": 25,
+      "categories": "Türkränze, Neuheiten"
+    },
+    {
+      "id": "T25",
+      "title": "Türkranz Willkommen",
+      "price": "20",
+      "description": "Holzplatte personalisierbar",
+      "image": "./images/image_T25.jpg",
+      "size": 30,
+      "categories": "Türkränze, Neuheiten"
+    },
+    {
+      "id": "T26",
+      "title": "Türkranz Herein spaziert",
+      "price": "20",
+      "description": "Holzplatte personalisierbar",
+      "image": "./images/image_T26.jpg",
+      "size": 30,
+      "categories": "Türkränze, Neuheiten"
+    },
+    {
+      "id": "T27",
+      "title": "Türkranz Willkommen mit Häusern",
+      "price": "17",
+      "description": "Band personalisierbar",
+      "image": "./images/image_T27.jpg",
+      "size": 25,
+      "categories": "Türkränze, Häuser, Neuheiten"
+    },
+    {
+      "id": "T28",
+      "title": "Türkranz Herein spaziert",
+      "price": "20",
+      "description": "Band personalisierbar",
+      "image": "./images/image_T28.jpg",
+      "size": 30,
+      "categories": "Türkränze, Neuheiten"
+    },
+    {
+      "id": "T29",
+      "title": "Türkranz Home",
+      "price": "17",
+      "description": "Band personalisierbar",
+      "image": "./images/image_T29.jpg",
+      "size": 25,
+      "categories": "Türkränze, Neuheiten"
+    },
+    {
+      "id": 110,
+      "title": "Geschenk zur Geburt",
+      "price": 13,
+      "description": "Name und Daten personalisierbar, Deko inklusive",
+      "image": "./images/image_110.jpg",
+      "images": [
+        "./images/image_110.jpg",
+        "./images/image_110_b.jpg",
+        "./images/image_110_c.jpg"
+      ],
+      "categories": "Geburt, Baby & Kinder, Neuheiten"
+    },
+    {
+      "id": 111,
+      "title": "Eierhalter Osterhase",
+      "price": 10,
+      "description": "ohne Eier",
+      "image": "./images/image_111.jpg",
+      "categories": "Frühjahr und Ostern, Neuheiten"
+    },
+    {
+      "id": 112,
+      "title": "Gutschein Halter",
+      "price": 5,
+      "description": "Motiv wählbar: Hochzeit, Geburtstag, Baby, Glückwunsch",
+      "image": "./images/image_112.jpg",
+      "categories": "Halterungen und Einschieber, Allgemeine Sets, Neuheiten"
+    },
+    {
+      "id": 113,
+      "title": "Vase",
+      "price": 10,
+      "description": "Vase inkl. Trockenblumen",
+      "image": "./images/image_113.jpg",
+      "categories": "Vasen, Neuheiten"
+    },
+    {
+      "id": 114,
+      "title": "Meine Hausaufgaben-Woche",
+      "price": 14,
+      "description": "Holzboard mit Wochenübersicht",
+      "image": "./images/image_114.jpg",
+      "categories": "Geburt, Baby & Kinder, Neuheiten"
+    },
+    {
+      "id": 115,
+      "title": "Du bist wundervoll",
+      "price": 5,
+      "description": "personalisierbar",
+      "image": "./images/image_115.jpg",
+      "categories": "Allgemeine Sets, Neuheiten"
+    },
+    {
+      "id": 116,
+      "title": "Lieblingskollegin",
+      "price": 5,
+      "description": "Aufdruck personalisierbar",
+      "image": "./images/image_116.jpg",
+      "categories": "Allgemeine Sets, Neuheiten"
+    },
+    {
+      "id": 117,
+      "title": "Kleiner Winterteller",
+      "price": 10,
+      "description": "Kerze und Deko-Tablett",
+      "image": "./images/image_117.jpg",
+      "categories": "Teller, Schalen und Töpfe, Allgemeine Sets, Neuheiten"
+    },
+    {
+      "id": 118,
+      "title": "Mini Wohnmobil-Licht",
+      "price": 4,
+      "description": "Spruch wählbar, inkl. Licht",
+      "image": "./images/image_118.jpg",
+      "categories": "Allgemeine Sets, Neuheiten"
+    },
+    {
+      "id": 121,
+      "title": "Lieblingskolleg(e/in) personalisiert mit Name",
+      "price": 5,
+      "description": "Name personalisierbar",
+      "image": "./images/image_121.jpg",
+      "images": [
+        "./images/image_121.jpg",
+        "./images/image_121_b.jpg"
+      ],
+      "categories": "Allgemeine Sets, Neuheiten"
+    },
+    {
+      "id": 122,
+      "title": "Schlüssel-Anhänger",
+      "price": "2,50",
+      "description": "Motiv wählbar",
+      "image": "./images/image_122.jpg",
+      "categories": "Allgemeine Sets, Neuheiten"
+    },
+    {
+      "id": 123,
+      "title": "Familienhaus personalisierbar",
+      "price": 13,
+      "description": "Namen personalisierbar",
+      "image": "./images/image_123.jpg",
+      "categories": "Häuser, Allgemeine Sets, Neuheiten"
+    },
+    {
+      "id": 124,
+      "title": "Familienhaus LOVE",
+      "price": 13,
+      "description": "Namen und Datum personalisierbar",
+      "image": "./images/image_124.jpg",
+      "categories": "Häuser, Hochzeit, Neuheiten"
+    },
+    {
+      "id": 125,
+      "title": "Wohnmobil-Ständer personalisiert",
+      "price": 6,
+      "description": "Namen personalisierbar, Dekoration inklusive",
+      "image": "./images/image_125.jpg",
+      "images": [
+        "./images/image_125.jpg",
+        "./images/image_125_b.jpg"
+      ],
+      "categories": "Allgemeine Sets, Neuheiten"
+    },
+    {
+      "id": 127,
+      "title": "Vogel-Anhänger mit Meisenknödel",
+      "price": 6,
+      "description": "Inhalt wie abgebildet",
+      "image": "./images/image_127.jpg",
+      "categories": "Tiere, Neuheiten"
+    },
+    {
+      "id": "W61",
+      "title": "Wichtel-Weihnachtshaus-Set",
+      "price": "30",
+      "description": "Großes Set mit Wichtelhaus, Bäumen, Bank, Briefkasten und Zubehör, Inhalt wie abgebildet",
+      "image": "./images/image_W61.jpg",
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "W62",
+      "title": "Weihnachtskrippe in der Holzkiste",
+      "price": "24",
+      "description": "Beleuchtet, mit den Heiligen Drei Königen",
+      "image": "./images/image_W62.jpg",
+      "categories": "Weihnachten, Neuheiten"
+    },
+    {
+      "id": "T31",
+      "title": "Türkranz Herzlich Willkommen",
+      "price": "20",
+      "description": "Trockenblumenkranz, Band personalisierbar",
+      "image": "./images/image_T31.jpg",
+      "size": 30,
+      "categories": "Türkränze, Neuheiten"
+    },
+    {
+      "id": 128,
+      "title": "Namensschild rund personalisierbar",
+      "price": 8,
+      "description": "Name und Motiv frei wählbar (z. B. Fußball, Dino, Einhorn, Blumen)",
+      "image": "./images/image_128.jpg",
+      "images": [
+        "./images/image_128.jpg",
+        "./images/image_128_b.jpg",
+        "./images/image_128_c.jpg",
+        "./images/image_128_d.jpg"
+      ],
+      "categories": "Geburt, Baby & Kinder, Neuheiten"
+    },
+    {
+      "id": "O20",
+      "title": "Hase Frohe Ostern mit Blumenkranz",
+      "price": 8,
+      "description": "Holzfigur mit Schriftzug, auf Sockel",
+      "image": "./images/image_O20.jpg",
+      "categories": "Frühjahr und Ostern, Neuheiten"
+    },
+    {
+      "id": "O21",
+      "title": "Hasen-Teelichthalter 2er Set",
+      "price": "7/10",
+      "description": "2 Größen, inkl. Teelichter",
+      "image": "./images/image_O21.jpg",
+      "categories": "Frühjahr und Ostern, Neuheiten"
+    },
+    {
+      "id": "O22",
+      "title": "Hasengrüße Ständer",
+      "price": 8,
+      "description": "auf Holzsockel",
+      "image": "./images/image_O22.jpg",
+      "categories": "Frühjahr und Ostern, Neuheiten"
+    },
+    {
+      "id": "O23",
+      "title": "Oster-Geschenkset mit Kerze",
+      "price": 12,
+      "description": "Inhalt wie abgebildet",
+      "image": "./images/image_O23.jpg",
+      "categories": "Frühjahr und Ostern, Neuheiten"
+    },
+    {
+      "id": "O24",
+      "title": "Oster-Schale mit Hase",
+      "price": 4,
+      "description": "Dekoration und Ei inklusive, Variante wählbar",
+      "image": "./images/image_O24.jpg",
+      "categories": "Teller, Schalen und Töpfe, Frühjahr und Ostern, Neuheiten"
+    },
+    {
+      "id": "O25",
+      "title": "Oster-Schale mit Hase und Ei",
+      "price": 12,
+      "description": "Dekoration inklusive",
+      "image": "./images/image_O25.jpg",
+      "categories": "Teller, Schalen und Töpfe, Frühjahr und Ostern, Neuheiten"
     }
   ]
 }

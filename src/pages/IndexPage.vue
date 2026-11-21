@@ -15,10 +15,11 @@
       infinite
       style="height: 340px; width: 340px;"
     >
-      <q-carousel-slide :name="1" img-src="/images_carousel-slide/20230616_072625269_iOS 1.jpg" fit="cover"/>
-      <q-carousel-slide :name="3" img-src="/images_carousel-slide/20250219_201151406_iOS.jpg" fit="cover"/>
-      <q-carousel-slide :name="4" img-src="/images_carousel-slide/20240515_121118269_iOS.jpg" fit="cover"/>
-      <q-carousel-slide :name="5" img-src="/images_carousel-slide/20250309_112304614_iOS.jpg" fit="cover"/>
+      <q-carousel-slide :name="1" img-src="/images_carousel-slide/weihnachten_wichtelhaus.jpg" fit="cover"/>
+      <q-carousel-slide :name="2" img-src="/images_carousel-slide/weihnachten_krippe_rahmen.jpg" fit="cover"/>
+      <q-carousel-slide :name="3" img-src="/images_carousel-slide/weihnachten_hirschkranz.jpg" fit="cover"/>
+      <q-carousel-slide :name="4" img-src="/images_carousel-slide/weihnachten_frohe_weihnachten_kranz.jpg" fit="cover"/>
+      <q-carousel-slide :name="5" img-src="/images_carousel-slide/weihnachten_krippe_teelicht.jpg" fit="cover"/>
     </q-carousel>
   </div>
   </div>
